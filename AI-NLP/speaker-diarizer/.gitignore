@@ -1,0 +1,14 @@
+.pytest_cache
+*.pyc
+env/
+*.log
+*.sqlite3
+*.model
+*.bin
+*.mp3
+*.mp4
+*.wav
+module\speaker_diarization\models\*
+module\speaker_diarization\models\
+module\speaker_diarization\results\
+module\speaker_diarization\dataset\

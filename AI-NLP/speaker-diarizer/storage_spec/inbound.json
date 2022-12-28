@@ -1,0 +1,24 @@
+{
+  "requestID": "req-ams-9724ace8-6019-402c-bf25-d910656d7703",
+  "prefix": "mscSS",
+  "description": "This service is mainly dealing with intake endpoint action, there, we ather the service is taking data fllow from (DB, S3,FTP, SFTP, etc.)",
+  "intakeServiceDtls": {
+    "execution": [
+      {
+        "service_request": "storagespec",
+        "service_request_type": "FTP",
+        "parameters": [
+          {
+            "authentication_type": "userId/Password",
+            "hostname": null,
+            "port": null,
+            "privateKey": "<http/s url_path> or <file_path>",
+            "passphrase": null,
+            "type": "string",
+            "required": true
+          }
+        ]
+      }
+    ]
+  }
+}

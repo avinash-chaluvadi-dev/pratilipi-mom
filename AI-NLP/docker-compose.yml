@@ -1,0 +1,46 @@
+version: '3'
+services:
+
+  speaker-diarization:
+    build:
+      context: ./speaker-diarization/
+      dockerfile: dockerfiles/dockerfile
+    image: speaker-diarization-test
+    container_name: speaker-diarization-test
+    ports:
+      - 8000:8000
+
+  speech-to-text:
+    build:
+      context: ./speech-to-text
+      dockerfile: dockerfiles/Dockerfile
+    image: speech-to-text-test
+    container_name: speech-to-text-test
+    ports:
+      - 8001:8001
+    tty: True
+
+  label-classification:
+    build:
+      context: ./classifier-models
+      dockerfile: dockerfiles/Dockerfile
+    image: label-classification
+    container_name: label-classification
+    ports:
+      - 8002:8002
+
+  summarization:
+    build:
+      context: ./meeting-summarizers
+    image: summarization
+    container_name: summarization
+    ports:
+      - 8003:8003
+
+  keyframe-extraction-classification:
+    build:
+      context: ""
+    image: keyframe-extraction-classification
+    container_name: keyframe-extraction-classification
+    ports:
+      - 8004:8004

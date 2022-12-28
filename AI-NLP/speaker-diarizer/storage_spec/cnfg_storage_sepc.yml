@@ -1,0 +1,47 @@
+'''
+@author   : ASM - HIVE
+@sobject  : Storage Spec
+@Date     : 08-02-2021
+@Description :This service is mainly dealing with Storage Spec action, there, we ether the service is taking data from (DB, S3,FTP, SFTP, etc.)
+
+'''
+version: 0.0.1
+name: Storage Spec
+title: Storage Spec
+prefix: mscSS 
+description: This service is mainly dealing with Storage Spec action, there, we ether the service is taking data from (DB, S3,FTP, SFTP, etc.)
+intakeServiceDtls:
+    execution:
+    - service_request: storagesepc
+       service_request_type: FILE-SYSTEM
+        applicable: YES
+          parameters:
+            - authentication_type: userId/Password
+              userID: ####_####_##
+              password: ####_####_##
+              hostname: ####_####_##
+              port: ####_####_##
+              url:  <http/s url_path> or <file_path>
+              passphrase: ####_####_##
+        service_request_type: S3
+        applicable: NO
+          parameters:
+            - authentication_type: userId/Password
+              userID: ####_####_##
+              password: ####_####_##
+              hostname: ####_####_##
+              port: ####_####_##
+              url:  <http/s url_path> or <file_path>
+              passphrase: ####_####_##
+        service_request_type: DB
+        applicable: NO
+          parameters:
+            - authentication_type: userId/Password
+              userID: ####_####_##
+              password: ####_####_##
+              hostname: ####_####_##
+              port: ####_####_##
+              url:  <http/s url_path> or <file_path>
+              passphrase: ####_####_##        
+    route:
+    - service_route: trigger

@@ -1,0 +1,16 @@
+six
+h5py
+tqdm
+numpy
+mpi4py
+pandas
+resampy
+sacrebleu
+virtualenv
+nltk==3.2.5
+numba==0.48
+sentencepiece
+joblib==0.13.2
+librosa==0.6.3
+python_speech_features
+tensorflow-gpu == 1.15

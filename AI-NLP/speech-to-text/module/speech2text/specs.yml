@@ -1,0 +1,9 @@
+# This YAML is the interface for the Application development team and the MLOPs teams to integrate the engine
+# in the cloud.
+
+
+version: 0.0.1
+name: Speech to Text
+speech_to_text:
+  input: speaker_diarization/output
+  output: speech_to_text/output/

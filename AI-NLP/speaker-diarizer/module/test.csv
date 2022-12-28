@@ -1,0 +1,6 @@
+,wav_filename,start_time,stop_time,label
+0,audio_chunk_333_8254_0.wav,333.0,8254.0,0.0
+3,audio_chunk_8254_12046_1.wav,8254.0,12046.0,1.0
+1,audio_chunk_12046_19439_0.wav,12046.0,19439.0,0.0
+4,audio_chunk_19439_23207_1.wav,19439.0,23207.0,1.0
+2,audio_chunk_23207_25412_0.wav,23207.0,25412.0,0.0

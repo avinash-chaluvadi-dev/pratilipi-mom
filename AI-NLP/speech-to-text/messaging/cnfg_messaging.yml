@@ -1,0 +1,47 @@
+'''
+@author   : ASM - HIVE
+@sobject  : Messaging
+@Date     : 08-02-2021
+@Description :This service is mainly dealing with Messaging action, there, we ether the service is taking data from (Kafka, rabbitMq, JMS, etc.)
+
+'''
+version: 0.0.1
+name: Messaging
+title: Messaging
+prefix: mscMessaging 
+description: This service is mainly dealing with Messaging action, there, we ether the service is taking data from (Kafka, rabbitMq, JMS, etc.)
+intakeServiceDtls:
+    execution:
+    - service_request: messagingservice
+        service_request_type: Kafka
+        applicable: NO
+          parameters:
+            - authentication_type: userId/Password
+              userID: ####_####_##
+              password: ####_####_##
+              hostname: ####_####_##
+              port: ####_####_##
+              url:  <http/s url_path> or <file_path>
+              passphrase: ####_####_##
+        service_request_type: RabbitMQ
+        applicable: YES
+          parameters:
+            - authentication_type: userId/Password
+              userID: ####_####_##
+              password: ####_####_##
+              hostname: ####_####_##
+              port: ####_####_##
+              url:  <http/s url_path> or <file_path>
+              passphrase: ####_####_##
+        service_request_type: JMS
+        applicable: NO
+          parameters:
+            - authentication_type: userId/Password
+              userID: ####_####_##
+              password: ####_####_##
+              hostname: ####_####_##
+              port: ####_####_##
+              url:  <http/s url_path> or <file_path>
+              passphrase: ####_####_##   
+    route:
+    - service_route: trigger

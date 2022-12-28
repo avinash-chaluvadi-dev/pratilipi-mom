@@ -1,0 +1,13 @@
+numpy>=1.15.1
+scipy>=1.1.0
+torch>=0.4.0
+pandas
+tensorflow-cpu==2.3.0
+keras==2.4.0
+pydub
+librosa==0.7.2
+numba==0.46
+llvmlite==0.32.1
+matplotlib
+moviepy
+

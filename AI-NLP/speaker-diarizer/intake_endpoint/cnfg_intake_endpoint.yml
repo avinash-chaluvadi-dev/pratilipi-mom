@@ -1,0 +1,62 @@
+version: 0.0.1
+name: Intake Endpoint
+title: Intake Endpoint
+prefix: mscIE
+description:
+  This service is mainly dealing with intake endpoint action, there, we ether
+  the service is taking data from (DB, S3,FTP, SFTP, etc.)
+intakeServiceDtls:
+  execution:
+    service_request:
+      - service_type: FTP
+        applicable: false
+        parameters:
+          authentication_type: userId/Password
+          userID: faisal.m
+          password: password
+          hostname: localhost
+          port: 25
+          url:
+          passphrase: something
+      - service_type: SFTP
+        applicable: false
+        parameters:
+          authentication_type: userId/Password
+          userID:
+          password:
+          hostname:
+          port:
+          url: <http/s url_path> or <file_path>
+          passphrase:
+      - service_type: S3
+        applicable: false
+        parameters:
+          authentication_type: userId/Password
+          userID:
+          password:
+          hostname:
+          port:
+          url: <http/s url_path> or <file_path>
+          passphrase:
+      - service_type: DB
+        applicable: false
+        parameters:
+          authentication_type: userId/Password
+          userID:
+          password:
+          hostname:
+          port:
+          url: <http/s url_path> or <file_path>
+          passphrase:
+      - service_type: File_System
+        applicable: true
+        parameters:
+          authentication_type: userId/Password
+          userID:
+          password:
+          hostname:
+          port:
+          url: /home/speaker_diarization/
+          passphrase:
+  route:
+    service_route: trigger

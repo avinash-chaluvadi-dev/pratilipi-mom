@@ -1,0 +1,9 @@
+.pytest_cache
+*.pyc
+module/speech2text/env/
+*.log
+*.sqlite3
+*.model
+*.bin
+module/speech2text/models/
+module/speech2text/results/

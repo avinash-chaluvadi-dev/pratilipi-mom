@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: pytest-check
+        name: pytest-check
+        entry: pytest boiler_plate -W ignore::DeprecationWarning
+        language: system
+        pass_filenames: false
+        always_run: true

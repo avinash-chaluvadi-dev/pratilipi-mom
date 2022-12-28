@@ -1,0 +1,26 @@
+{
+    "model": "speaker_diarization",
+    "response": [
+        {
+            "chunk_id": 1,
+            "start_time": 333,
+            "end_time": 8254,
+            "speaker_id": 0,
+            "audio_path": "C:\\General\\Hive Workspace\\SMS_speech_to_text\\module\\speech2text\\dataset\\hive_standup_20210804_audio_chunk_4828_19024_0.wav"
+        },
+        {
+            "chunk_id": 2,
+            "start_time": 8254,
+            "end_time": 12046,
+            "speaker_id": 1,
+            "audio_path": "C:\\General\\Hive Workspace\\SMS_speech_to_text\\module\\speech2text\\dataset\\hive_standup_20210804_audio_chunk_21592_24736_1.wav"
+        },
+        {
+            "chunk_id": 3,
+            "start_time": 12046,
+            "end_time": 19439,
+            "speaker_id": 0,
+            "audio_path": "C:\\General\\Hive Workspace\\SMS_speech_to_text\\module\\speech2text\\dataset\\hive_standup_20210804_audio_chunk_24736_44808_2.wav"
+        }
+    ]
+}

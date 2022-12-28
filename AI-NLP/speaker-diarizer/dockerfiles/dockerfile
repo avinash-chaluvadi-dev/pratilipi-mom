@@ -1,0 +1,36 @@
+FROM python:3.7.11
+
+ARG password
+
+RUN apt-get update \
+    && apt-get install -y wget nano git libasound-dev ffmpeg \
+    && wget -P /opt/ http://files.portaudio.com/archives/pa_stable_v190700_20210406.tgz && cd /opt \
+    && tar -zxvf pa_stable_v190700_20210406.tgz && rm -f pa_stable_v190700_20210406.tgz\
+    && portaudio/configure && make \
+    && make install \
+    && apt-get install -y portaudio19-dev
+
+WORKDIR /home/speaker_diarization
+
+COPY requirements.txt .
+
+RUN pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org \
+    --trusted-host pypi.python.org -r requirements.txt
+
+COPY ./ ./
+
+COPY tensorflow_backend.py /usr/local/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py
+
+RUN python manage.py migrate
+
+EXPOSE 8000
+
+CMD [ "python", "./manage.py", "runserver", "0.0.0.0:8000"]
+
+
+# Alternate approach of getting source code into container
+# RUN git config --global http.sslverify false \
+#     && git clone https://AG84959:$password@bitbucket.anthem.com/scm/hive/speaker-diarization 
+# && wget https://files.pythonhosted.org/packages/ab/42/b4f04721c5c5bfc196ce156b3c768998ef8c0ae3654ed29ea5020c749a6b/PyAudio-0.2.11.tar.gz
+# RUN cd /home \
+#     && pip install -r requirements.txt
