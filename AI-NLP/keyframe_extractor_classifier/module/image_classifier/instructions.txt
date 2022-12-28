@@ -1,0 +1,64 @@
+Package Instruction Set
+
+The Package can run in major two modes
+
+	• Pluggable Engine mode.
+		○ It can be run in four modes: 
+			§ Train and Evaluate
+			§ Train
+			§ Evaluate
+			§ Test
+	•  Standalone testing and execution mode 
+		○ It can be run in three modes:
+			§ Train 
+			§ Evaluate
+			§ Test
+
+Environment Setup
+
+Requirements
+requirements.txt
+
+File Setup
+	• Need to place the package testing json in the /datasets/<json_file>.
+	• modify the package_test_files key in params dictionary present inside config.py
+	• Place the base/pretrained model in the /models.
+
+Config.py Parameters Setup
+	• Set MODEL_DIR, LOAD_DIR, FRAMES_DIR,EVAL_FRAMES_DIR,VEDIO_DIR,OUTPUT_LOG and OUTPUT_RUN is relative to  the path to the module that is currently being imported.
+	• Network Hyperparameters
+		○ Device - "cpu" or "gpu", depending upon the hardware supported by your local machine.
+		○ BATCH_SIZE -> tunable for train, eval and serving.
+		○ EPOCHS -> Tunable for the training process.
+		○ FRAME_RATE -> Tunable.
+		○ FOLDS -> Tunable for the training process.
+
+	
+
+Run commands
+
+The script main.py is the entry point of the package execution
+
+	• Standalone Execution
+		○ Run the functional test for the package, to check all the components of the engine work correctly or not.
+		○ func_test = "all" -> runs test for all the components.
+		○ func_test= "train" -> runs the test for training component only.
+		○ func_test = "serve" -> runs the test for serving component only.
+		○ func_test = "eval" -> runs the test for evaluation component only.
+
+		command: python main.py --mode="package_test" --func_test="all"
+
+	• Pluggable component
+		○ This mode of running the package, showcase the capability to be able to plug in the train, eval and serving component of this module into API integration or MLOPs engine.
+		○ Mode="train_eval" - run the training and evaluation component of the package.
+		○ Mode="train" - run the training component of the package.
+		○ Mode="serve" - run the serving component of the package.
+		command: python main.py --mode="train"
+
+
+
+Results and Logs
+
+	• The training results are stored in /models timestamped with date and time, when the package is run in pluggable mode whereas no model is stored in the package testing mode.
+	• The execution run logs after each run can be found in results/run_logs, timestamped with time of execution and date.
+	• The output JSONs for the serving component can be found in the results/test_outputs.

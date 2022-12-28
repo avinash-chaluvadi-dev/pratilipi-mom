@@ -1,0 +1,315 @@
+{
+    "status": "success",
+    "request_id": "req_001",
+    "concatenated_view": [
+        {
+            "start_time": "05:30:02",
+            "end_time": "05:30:20",
+            "speaker_id": 0,
+            "chunk_id": 0,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_2508_20331_0.wav",
+            "transcript": "[SOT][]Oh,[/] okay. So that []if[/] people []don't know.[/][EOT]",
+            "summary": "at where it has not joined so when he is back upon lan yor contequativ yes under the name of the that is.",
+            "label": [
+                "Update",
+                60.51340103149414
+            ]
+        },
+        {
+            "start_time": "05:30:20",
+            "end_time": "05:30:25",
+            "speaker_id": 1,
+            "chunk_id": 1,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_20331_25992_1.wav",
+            "transcript": "[SOT][]yeah[/] [-]we are left with[/-] a week to complete <>a[#]our[/#]</> sprint []yeah[/][EOT]",
+            "summary": "yet  the punkeli he mundulately mut",
+            "label": [
+                "Update",
+                72.90924191474915
+            ]
+        },
+        {
+            "start_time": "05:30:25",
+            "end_time": "05:30:49",
+            "speaker_id": 0,
+            "chunk_id": 2,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_25992_49162_0.wav",
+            "transcript": " he said forn list i could working on ber the levelling up fair so when dat this its but difpiculti and in the marn the modi would witho figure u in quin any any pediments wel utne and you tink yoote",
+            "summary": "he said forn list i could work on ber the levelling up fair so when dat this it its but difpiculti and in the marn the modi would witho figure u in quin any any pediments wel ustne and you tink yoote.",
+            "label": [
+                "Update",
+                64.24746513366699
+            ]
+        },
+        {
+            "start_time": "05:30:49",
+            "end_time": "05:30:59",
+            "speaker_id": 2,
+            "chunk_id": 3,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_49162_59294_2.wav",
+            "transcript": "[SOT][sp1]This is done[sp1] [sp2] yes [sp2][EOT]",
+            "summary": "namea matro lement like er ar one meethen needs felling the rashes working on one meeting and making agas him.",
+            "label": [
+                "Update",
+                57.42198824882507
+            ]
+        },
+        {
+            "start_time": "05:30:59",
+            "end_time": "05:34:57",
+            "speaker_id": 0,
+            "chunk_id": 4,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_59294_297215_0.wav",
+            "transcript": "[SOT][sp1]With him[sp1].[sp2] Yeah I'm here [sp2][sp1] hey anuj[sp1][EOT]",
+            "summary": "i woged undardraining a new illusion part of the modern and so walt the world on the gavewold gros woredition bar. o just let me know you wor on reflacting on freddy you sai thaxs almost completely doesin te compigulared or ervant said that it son must gondr",
+            "label": [
+                "Others",
+                85.91487407684326
+            ]
+        },
+        {
+            "start_time": "05:34:57",
+            "end_time": "05:35:01",
+            "speaker_id": 3,
+            "chunk_id": 5,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_297215_301804_3.wav",
+            "transcript": "[SOT][$] sentiment analysis used right so it is again on anujs name so we have two stories which we need to get an update from anuj I'll touch base.[/$][EOT]",
+            "summary": "yes now am done with those a story we can close it by uty and act.",
+            "label": [
+                "Action",
+                59.6757709980011
+            ]
+        },
+        {
+            "start_time": "05:35:01",
+            "end_time": "05:35:13",
+            "speaker_id": 0,
+            "chunk_id": 6,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_301804_313541_0.wav",
+            "transcript": "[SOT][]Oh,[/] good. Good, []good.[/] So we, []we're[/] <>we're [#]we were[/#]</> talking about the story, which is []an[/] <>an [#]in[/#]</> in progress.[EOT]",
+            "summary": "orce o get and also get your change this worploquia as in astute arge shok thank you this out de vosarigo.",
+            "label": [
+                "Action",
+                77.34902501106262
+            ]
+        },
+        {
+            "start_time": "05:35:13",
+            "end_time": "05:35:26",
+            "speaker_id": 3,
+            "chunk_id": 7,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_313541_326123_3.wav",
+            "transcript": "[SOT][sp1]It's 40% better than the previous output approximately [sp1][sp2]right[sp2][sp1][@]forty [#]40[/#][/@][sp1][EOT]",
+            "summary": "hide on so i'll be walking with the same libling and validating.",
+            "label": [
+                "Action",
+                83.83879661560059
+            ]
+        },
+        {
+            "start_time": "05:35:24",
+            "end_time": "05:35:29",
+            "speaker_id": 0,
+            "chunk_id": 8,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_324458_329620_0.wav",
+            "transcript": "[SOT][sc]bettar[#]better[/#][/sc][EOT]",
+            "summary": "nol sell you is my lettinget lucicious dust retraved earth ofs.",
+            "label": [
+                "Others",
+                57.47631788253784
+            ]
+        },
+        {
+            "start_time": "05:35:30",
+            "end_time": "05:35:35",
+            "speaker_id": 3,
+            "chunk_id": 9,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_330171_335062_3.wav",
+            "transcript": "[SOT][sp1][-]so you'll be closing the related tasks also right?[/-][sp1][sp2][-]yes yes I'll do.[/-][sp2][sp1]Okay. And []do you[/] [-]kindly[/-] update the uh artifacts []that[/] as well, []as[/] the documents [sp1][sp2]<>Yeah.[#]yes[/#]</> [sp2][EOT]",
+            "summary": "sily facing light nalso am ar trying to exist her.",
+            "label": [
+                "Update",
+                57.25281238555908
+            ]
+        },
+        {
+            "start_time": "05:35:35",
+            "end_time": "05:35:37",
+            "speaker_id": 0,
+            "chunk_id": 10,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_335062_337716_0.wav",
+            "transcript": "[SOT][]Yeah.[/] [sp1]Okay. []So[/] [-]sarika[/-] []uh,[/] do you remember, uh, which one you ()would worked have done?[#]worked on?[/#](/) Uh, do you have the time stamp []per day?[/] [-]for that?[/-][sp1][sp2]Yeah.[sp2][EOT]",
+            "summary": "so relected  fetting your work up",
+            "label": [
+                "Action",
+                75.19192099571228
+            ]
+        },
+        {
+            "start_time": "05:35:37",
+            "end_time": "05:35:44",
+            "speaker_id": 3,
+            "chunk_id": 11,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_337716_344765_3.wav",
+            "transcript": "[SOT][]I mean,[/] [sp1]<>Ash[#]Avinash[/#]</>, I mean, will it be <>used[#]useful?[/#]</> [sp1][sp2][-]yes[/-]Yeah.[-]yeah[/-] [sp2][EOT]",
+            "summary": "dole fur labelling parti gride in ner i don't requir ing it as of no butt.",
+            "label": [
+                "Update",
+                93.94734501838684
+            ]
+        },
+        {
+            "start_time": "05:35:44",
+            "end_time": "05:35:59",
+            "speaker_id": 0,
+            "chunk_id": 12,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_344765_359430_0.wav",
+            "transcript": "[SOT][]Oh,[/] sorry,[-]Dhanuj[/-] []the manager[/] I was talking on mute. Yeah. So Divesh uh, uh, [-] I have[/-]one quick question to you. So you were talking about 92 []days,[/] [-]only[/-] right?[EOT]",
+            "summary": "vyer oo here after that of roaning here indeeder wougld there be any sur that's only ceci ofye frank arci art.",
+            "label": [
+                "Others",
+                45.696595311164856
+            ]
+        },
+        {
+            "start_time": "05:35:59",
+            "end_time": "05:36:11",
+            "speaker_id": 4,
+            "chunk_id": 13,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_359430_371924_4.wav",
+            "transcript": "[SOT][]Yeah.[/] Okay. Understood. Thank you. <>Find[#]Fine[/#]</> [-]dhanuj go ahead please[/-] []that as well.[/][EOT]",
+            "summary": "yea o i'll be fixed er a don on arm watered oner running the soul on sente blest ty faw un tied him and now bi jes sir un wondered that occasion wav me.",
+            "label": [
+                "Action",
+                56.71741962432861
+            ]
+        },
+        {
+            "start_time": "05:36:11",
+            "end_time": "05:36:15",
+            "speaker_id": 5,
+            "chunk_id": 14,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_371924_375625_5.wav",
+            "transcript": "or some work in hase full ur on",
+            "summary": "or some work in hase full ur on",
+            "label": [
+                "Update",
+                76.20086669921875
+            ]
+        },
+        {
+            "start_time": "05:36:15",
+            "end_time": "05:36:18",
+            "speaker_id": 4,
+            "chunk_id": 15,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_375625_378944_4.wav",
+            "transcript": "e ticwi alazaniaps of other",
+            "summary": "e ticwi alazaniaps of other",
+            "label": [
+                "Update",
+                76.47255659103394
+            ]
+        },
+        {
+            "start_time": "05:36:18",
+            "end_time": "05:36:21",
+            "speaker_id": 0,
+            "chunk_id": 16,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_378944_381021_0.wav",
+            "transcript": "haot hen o the mutn so saited",
+            "summary": "haot hen o the mutn so saited",
+            "label": [
+                "Others",
+                46.7710942029953
+            ]
+        },
+        {
+            "start_time": "05:36:21",
+            "end_time": "05:36:26",
+            "speaker_id": 4,
+            "chunk_id": 17,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_381021_386456_4.wav",
+            "transcript": "ya have ien is this i have addered in may actually i jimp",
+            "summary": "ya have ien is addingered in may.",
+            "label": [
+                "Update",
+                84.63329076766968
+            ]
+        },
+        {
+            "start_time": "05:36:27",
+            "end_time": "05:36:39",
+            "speaker_id": 5,
+            "chunk_id": 18,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_387725_399258_5.wav",
+            "transcript": "se agerkigsh ou toms thinkest or fix the modal worem",
+            "summary": "se agerkigsh ou toms thinkest or fix the modal worem.",
+            "label": [
+                "Action",
+                95.58579325675964
+            ]
+        },
+        {
+            "start_time": "05:36:39",
+            "end_time": "05:36:54",
+            "speaker_id": 0,
+            "chunk_id": 19,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_399258_414256_0.wav",
+            "transcript": "him was  marget so hor do you be working under the yourn your demar speak for wat the gillanian fes it also ye as aron if you talk about bad ward",
+            "summary": "hor do you be working under the yourn your demar speak for wat the gillanian fes it also ye as aron if you talk about bad ward.",
+            "label": [
+                "Update",
+                49.0429550409317
+            ]
+        },
+        {
+            "start_time": "05:36:54",
+            "end_time": "05:37:14",
+            "speaker_id": 4,
+            "chunk_id": 20,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_414256_434777_4.wav",
+            "transcript": " deadly i know we are become weour honor working on this ir same mud acectivy ah of er lease some ore some other passols o make fisting and honor consulted ofi and wore marorkisses thatr bead ones were eject with rage errin ar befor the som no such said the man",
+            "summary": "weour honor working on this ir same mud acectivy er lease some ore some other passols o make fisting and honor consulted ofi and wore marorkisses thatr bead ones were eject with rage errin ar befor the som no such said the man.",
+            "label": [
+                "Others",
+                49.312666058540344
+            ]
+        },
+        {
+            "start_time": "05:37:14",
+            "end_time": "05:37:42",
+            "speaker_id": 0,
+            "chunk_id": 21,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_434777_462434_0.wav",
+            "transcript": " i haven't said de quika with raga at this ah yes yes daily we have a corgen matter oh koucesolts goodden so oh do you have any mpediments at any point of day non i lok you unc suffice him tit i knew you've had anything bird horra laud on ook an ge dey sell you vis a new budget anysty but nily e vrybody elscod me",
+            "summary": "i haven't said de quika with raga at this daily we have a corgen matter oh koucesolts goodden so do you have any mpediments at any point of day non.",
+            "label": [
+                "Others",
+                62.24168539047241
+            ]
+        },
+        {
+            "start_time": "05:37:42",
+            "end_time": "05:37:53",
+            "speaker_id": 6,
+            "chunk_id": 22,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_462434_473317_6.wav",
+            "transcript": " g thanse than for it",
+            "summary": " g thanse than for it",
+            "label": ["Update",88.40116858482361]
+        },
+        {
+            "start_time": "05:37:53",
+            "end_time": "05:38:13",
+            "speaker_id": 0,
+            "chunk_id": 23,
+            "path": "C:/Users/AG99023/Downloads//98e52eab-9aae-4438-94fb-95f4766c00a0/speaker_diarization/output/audio_chunk_473317_493529_0.wav",
+            "transcript": "exemean  erso tillemi",
+            "summary": "exemean  erso tillemi",
+            "label": [
+                "Update",
+                84.73218083381653
+            ]
+        }
+    ]
+}

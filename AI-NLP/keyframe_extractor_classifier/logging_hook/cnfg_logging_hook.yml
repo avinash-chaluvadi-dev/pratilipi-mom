@@ -1,0 +1,28 @@
+version: 0.0.1
+name: Logging
+title: Logging
+prefix: mscLogging
+description: This service is mainly dealing with Logging action, there, we ether the service is taking data from (Kibana, SPLUNK, DATADOG, SFTP, etc.)
+logServiceDtls:
+  execution:
+    service_request:
+      - service_type: File_System
+        applicable: true
+        parameters:
+          authentication_type: userId/Password
+          filename: ./debug.log
+          class: logging.FileHandler
+          level: DEBUG
+          propagate: true
+      - service_type: splunk
+        applicable: false
+        parameters:
+          authentication_type: userId/Password
+          userID:
+          password:
+          hostname:
+          port:
+          path: 
+          passphrase:
+  route:
+    service_route: trigger

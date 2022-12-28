@@ -1,0 +1,30 @@
+version: 0.0.1
+name: Jira Configuration Manager
+title: Jira Configuration Manager
+prefix: mscJCM
+description: This service is mainly dealing with Jira Configuration Manager actions to create the Jira incidents on top of the Jira project window.
+jiraconfigurationmngservicedtls:
+  execution:
+    service_request:
+      - service_type: Jira-uat
+        applicable: true
+        parameters:
+          host_name: 'jira-dev.elevancehealth.com'
+          key: DEVVOTCJIR
+          certificate: root_chain.pem
+          chk_certificate: true
+          sericeId: SRC_VOTC_JIRA_DEV
+          email: SRC_VOTC_JIRA_DEV@devad.wellpoint.com
+          password: 'TmphFwuXsr6eiaRJ!cGA'
+          url: 'https://jira-dev.elevancehealth.com/rest/api/2/'
+      - service_type: Jira-prod
+        applicable: false
+        parameters:
+          host_name: 'jira.elevancehealth.com'
+          key: VOTC
+          certificate: root_chain.pem
+          chk_certificate: true
+          sericeId: SRC_VOTC_JIRA_PROD
+          email: SRC_VOTC_JIRA_PROD@us.ad.wellpoint.com
+          password: '#########'
+          url: 'https://jira.elevancehealth.com/rest/api/2/'

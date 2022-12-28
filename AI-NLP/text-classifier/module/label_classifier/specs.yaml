@@ -1,0 +1,9 @@
+# This YAML is the interface for the Application development team and the MLOPs teams to integrate the engine
+# in the cloud.
+
+version: 0.0.1
+name: label_classifier
+label_classifier:
+  input:
+  output: label_classifier/output
+  Log: # Add log file path > path -> ML engine persp -> /label_classifier/exec.log, root path should be same.

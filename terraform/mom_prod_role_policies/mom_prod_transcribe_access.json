@@ -1,0 +1,29 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetObject",
+                "transcribe:GetTranscriptionJob",
+                "transcribe:DeleteTranscriptionJob"
+            ],
+            "Resource": [
+                "arn:aws:transcribe:*:157222640043:transcription-job/*",
+                "arn:aws:s3:::*/*"
+            ]
+        },
+        {
+            "Sid": "VisualEditor1",
+            "Effect": "Allow",
+            "Action": [
+                "transcribe:UntagResource",
+                "transcribe:TagResource",
+                "transcribe:StartTranscriptionJob",
+                "transcribe:ListTranscriptionJobs"
+            ],
+            "Resource": "*"
+        }
+    ]
+}

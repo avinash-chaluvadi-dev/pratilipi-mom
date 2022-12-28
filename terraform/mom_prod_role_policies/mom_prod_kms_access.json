@@ -1,0 +1,41 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Action": [
+                "kms:Encrypt",
+                "kms:Decrypt",
+                "kms:ReEncrypt*",
+                "kms:GenerateDataKey*",
+                "kms:DescribeKey",
+                "kms:CreateGrant",
+                "kms:ListGrants"
+            ],
+            "Resource": [
+                "arn:aws:kms:us-east-1:454134248856:key/653c8024-72dd-44b7-a5bf-2d72f33b23fb",
+                "arn:aws:kms:us-east-1:454134248856:key/15301321-7f73-41fc-9153-76fc8e0f26e9"
+            ],
+            "Effect": "Allow",
+            "Sid": "AllowUseOfTheKey"
+        },
+        {
+            "Condition": {
+                "Bool": {
+                    "kms:GrantIsForAWSResource": "true"
+                }
+            },
+            "Action": [
+                "kms:Decrypt",
+                "kms:CreateGrant",
+                "kms:ListGrants",
+                "kms:RevokeGrant"
+            ],
+            "Resource": [
+                "arn:aws:kms:us-east-1:454134248856:key/653c8024-72dd-44b7-a5bf-2d72f33b23fb",
+                "arn:aws:kms:us-east-1:454134248856:key/15301321-7f73-41fc-9153-76fc8e0f26e9"
+            ],
+            "Effect": "Allow",
+            "Sid": "AllowAttachmentOfPersistentResources"
+        }
+    ]
+}

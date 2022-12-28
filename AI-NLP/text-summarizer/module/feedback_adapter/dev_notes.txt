@@ -1,0 +1,43 @@
+Flow of the development
+
+1. Prepare the dictionary of the rules and the labels.
+
+2. Prepare the input data representation. Prepare batch of data with subset of rules and labels and another with all
+    rules and labels added.
+    1. Add all the rules in the input data
+    2. Add all the labels in the input data.
+
+3. Define the expected outcome, the ground truth for implementation check.
+4. Get into the coding of the recitifer and the annotator based on the input and output defined.
+
+
+# Convention for the labels dictionary
+
+1. Entity to be the list of label names.
+2. The classifier_labels, binary classifier to by default have list of values ["Yes", "No"] values,
+whereas for a multiclass classifier, [" ", ..., " "], customly defined multiple values.
+3. For all the key values in the dictionary,
+they should be camel case(First letter capital of each word), each word separated by spaces.
+4. Discuss the Markers and Behaviour Patterns with Jatin.
+
+# Convention for Rules Dictionary
+
+
+6. The replacement rules <>[#] [/#]</> and ()[#] [/#](/) -> no spaces after [/#] between (/).
+7. Not understood utterance returned as ["**"].
+8. Human Laughter rule is not added and the misinterpreted sentence, educated intelligent guess, is not added.
+9. No spaces between any of the patterns. This is very important, since spaces can break the regex expression.
+for e.g. <>abc [#]adfmaf [/#] </>
+the regex logic removes anything between <> [#] and then removes the [/#]</>, but if there is space between [/#] and </>
+the regex breaks and the output is not able to match [/#]</>. - This is important to remember.
+10. Rules.json -> The tag needs to be separated by space -> this is needed to match the tag if rule matching logic.
+11. The rules adapter doesnot validate the rules added pattern are correct or not. It has happen on the UI to backend
+storage step. This adapter expects the fetched output from the storage to be abiding by the rules convention.
+12. The rule speaker separation has been replaced with [sp1] , reason being rule identification.
+
+15. Convoluted rules are out of scope for this version of the feedback loop adapter.
+16. Rule processing hierarchy, the speaker separation rule is applied before any other rule in the rule book.
+17. This component is prone to developer bias, due to the creation of test cases from developer's end.
+18. How would reviewer know, what is the id of the speaker who is speaking, he/she will have to figure out manually
+(tracking it from the UI), not something, which a HR would want to do.
+

@@ -1,0 +1,39 @@
+# This YAML is the interface for the Application development team and the MLOPs teams to integrate the engine
+# in the cloud.
+
+version: 0.0.1
+name: Summarizer
+topic_extractor:
+  input: speech_to_text/output
+  input_file_name: speech_to_text.json
+  output: topic_extractor/output
+  output_file_name: topic_extractor_output.json
+integration:
+  input: 
+  output: 
+  output_file_name: summarizer.json
+minutes_of_meeting:
+  input:
+  output: mom/output
+  output_file_name: mom.json
+text_summarizer:
+  input: speech_to_text/output
+  input_file_name: speech_to_text.json
+  output: summarizer/output
+  output_file_name: summarizer_output.json
+headliner:
+  input: speech_to_text/output
+  input_file_name: speech_to_text.json
+  output: headliner/output
+  output_file_name: headliner_output.json
+framify:
+  input: speaker_diarization/output
+  input_file_name: speaker_diarization.json
+  output: keyframe_extractor/output
+  output_file_name: keyframe_ext_output.json
+keyframe_classifier:
+  input: keyframe_extractor/output
+  input_file_name: keyframe_ext_output.json
+  output: keyframe_classifier/output
+  output_file_name: keyframe_cls_output.json
+

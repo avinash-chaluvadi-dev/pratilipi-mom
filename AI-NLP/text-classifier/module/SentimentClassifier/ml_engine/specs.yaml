@@ -1,0 +1,14 @@
+# This YAML is the interface for the Application development team and the MLOPs teams to integrate the engine
+# in the cloud.
+
+
+Input : # Where does the input come
+
+Output : # Where does the output come from
+
+Log : # Add log file path > path -> ML engine persp -> /sentiment/exec.log, root path should be same.
+
+
+
+
+

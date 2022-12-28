@@ -1,0 +1,57 @@
+Package Instruction Set
+
+The Package can be run in major two modes
+
+	• Pluggable Engine mode.
+		○ It can be run in three modes:
+			§ Evaluate
+			§ test
+	•  Standalone testing and execution mode
+		○ It can be run in three modes:
+			§ Evaluate
+			§ Test
+
+Environment Setup
+
+Requirements
+Install the requirements from requirements.txt file using ```pip install -r requirements.txt```
+
+File Setup
+	• Need to place the ground truth data for evaluation in dataset/ folder
+	• Need to place the input json in the dataset/ folder
+
+Config.py Parameters Setup
+	• Network Hyperparameters
+		○ FRAME_RATE: Number of Frames per second. The format is 1 / FPS.
+		○ DEFAULT_WINDOW_TYPE: Default window type for smoothening of the array.
+		○ dsize: height and width for resizing the image before processing.
+		○ THRESHOLD: dictionary containing threshold values for different algorithms
+		○ USE_THRESHOLD: Whether to use threshold based saving of frames (False means to use local maxima)
+
+	• Hashing: Whether to use Image hashing for the process or not.
+	• DO_OPTICAL_FLOW: whether to use optical flow algorithm or not
+
+
+Run commands
+
+The script main.py is the entry point of the package execution
+
+	• Standalone Execution
+		○ Run the functional test for the package, to check all the components of the engine work correctly or not.
+		○ func_test = "all" -> runs test for all the components.
+		○ func_test = "serve" -> runs the test for serving component only.
+		○ func_test = "eval" -> runs the test for evaluation component only.
+
+python main.py --mode="package_test" --func_test="all"
+
+	• Pluggable component
+		○ This mode of running the package, showcase the capability to be able to plug in the train, eval and serving component of this module into API integration or MLOPs engine.
+		○ Mode="serve" - run the serving component of the package.
+		○ Mode="eval" - run the evaluation component of the package.
+
+python main.py --mode="serve"
+
+Results and Logs
+
+	• The execution run logs after each run can be found in results/run_logs, timestamped with time of execution and date.
+	• The output JSONs for the serving component can be found in the results/test_outputs.

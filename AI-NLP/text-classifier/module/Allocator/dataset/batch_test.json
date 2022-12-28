@@ -1,0 +1,1248 @@
+{
+  "status": "success",
+  "model": "speech_to_text",
+  "response": [
+    {
+      "transcript": "Okay so uh this is how the e-time tool looks like. Okay. So if you're a manager, you'll also get this kind of thing only payroll administrator role. you will be getting manage by employees tab since I'm, I admin, I have lots of access to it so you might have not have those access okay. So let me  brief you what access you have and what as a manager you have to do and what as employee you have to do okay ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_5968_22800_1.wav",
+      "recommendation": {},
+      "chunk_id": 1
+    },
+    {
+      "transcript": "and what as employee you have to do okay. Uh, so, uh, we work on. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_21576_26624_0.wav",
+      "recommendation": {},
+      "chunk_id": 2
+    },
+    {
+      "transcript": " the payroll cycle, which start from 16 of previous month to 15th of current month. okay. So currently we're in a  the period which start from 16, December, 2015  to 15th of",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_26624_36632_1.wav",
+      "recommendation": {},
+      "chunk_id": 3
+    },
+    {
+      "transcript": "January. Okay. So, uh,this is the time we get, have to take the attendance and, uh,things to, uh, to, uh, process,the salaries. Okay. Uh, this is how we begin so, uh, let's start with the employee. Okay. So if you're a manager, you have  to click.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_36632_52892_0.wav",
+      "recommendation": {},
+      "chunk_id": 4
+    },
+    {
+      "transcript": "You to click on this plus sign. Okay. And you have to click on  my information so you can see, your",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_49176_57512_1.wav",
+      "recommendation": {},
+      "chunk_id": 5
+    },
+    {
+      "transcript": "so you can uh see your details over here. Okay. If you were just an employee, not a manager where you log in, you'll  directly see this information available. Okay. So this is called as timecard. Okay. And, uh,",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_57512_71304_0.wav",
+      "recommendation": {},
+      "chunk_id": 6
+    },
+    {
+      "transcript": "Yes as a employee,  you only have to lock in and update the in time and out time since we are in pandemic. So we are not having, uh, automated machine now to capture the in time and all the out  time, once are in office, this would start. So currently we are manually updating the end  in time an ou time.You just have to come on the  respective day and this one. Yeah.  and just insert the ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_71304_89036_1.wav",
+      "recommendation": {},
+      "chunk_id": 7
+    },
+    {
+      "transcript": "Yeah  Um, so today,  is 11th",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_89036_93416_0.wav",
+      "recommendation": {},
+      "chunk_id": 8
+    },
+    {
+      "transcript": " so you just have to put  in time and  out time and  just.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_93416_100884_1.wav",
+      "recommendation": {},
+      "chunk_id": 9
+    },
+    {
+      "transcript": " so uh Javed sorry. you kept it on a Sunday. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_100884_106460_2.wav",
+      "recommendation": {},
+      "chunk_id": 10
+    },
+    {
+      "transcript": "Oh, okay I can delete it not an issue just I'm showing you guys",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_106460_118336_1.wav",
+      "recommendation": {},
+      "chunk_id": 11
+    },
+    {
+      "transcript": " and you can click on save. So if you uh see this ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_118336_120348_0.wav",
+      "recommendation": {},
+      "chunk_id": 12
+    },
+    {
+      "transcript": " red mark means exception or because a day is gone and i'm not updated once I update  it will go away. Okay. And sometimes you enter different shift Timing's also like it will show that error, for example, I'm working 10 to less than  if i put uh 12:00 PM to 9:00 PM. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_120348_137245_1.wav",
+      "recommendation": {},
+      "chunk_id": 13
+    },
+    {
+      "transcript": "12:00 PM to 9:00 PM. We also referred  it will also reflect as red only  because  it will  show anabsence because it",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_135457_140981_0.wav",
+      "recommendation": {},
+      "chunk_id": 14
+    },
+    {
+      "transcript": " it is not matching It with the shift timings  Okay. Yeah. So this is  called  schedule. schedule is nothing, but so they have a language in e-time  this is a scheduler but we call as  this is the shift timing which I is allocated to me, this can  be only changed by my  manager and it's pretty in special cases. I, as admin can get access to  get approval. So I change it my end also. Okay. It's a manager duty to change their schedule. Timing's okay. And if you come down. Okay. So this is how we can drag  up and drag  in.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_139385_172397_1.wav",
+      "recommendation": {},
+      "chunk_id": 15
+    },
+    {
+      "transcript": "okay. So this is how we can drag up and  drag in  the card If you see  it will show the summary of the entire month. How much do you have work.What is it   Sothe shift allowance you're going to get? what is the overtime you are going to get? et cetera, et cetera. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_169501_181245_0.wav",
+      "recommendation": {},
+      "chunk_id": 16
+    },
+    {
+      "transcript": "It will be available in this  tab. Okay. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_181245_184741_1.wav",
+      "recommendation": {},
+      "chunk_id": 17
+    },
+    {
+      "transcript": " and, uh, uh, accruals. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_184741_187541_0.wav",
+      "recommendation": {},
+      "chunk_id": 18
+    },
+    {
+      "transcript": "accruals are nothing but the leave balance. Okay.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_187541_189885_1.wav",
+      "recommendation": {},
+      "chunk_id": 19
+    },
+    {
+      "transcript": " okay so these are all the leave  balance all available? You can see over here in accrual tab okay.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_189885_192897_0.wav",
+      "recommendation": {},
+      "chunk_id": 20
+    },
+    {
+      "transcript": "Okay. And in e-time  there's something. Okay. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_192897_197305_1.wav",
+      "recommendation": {},
+      "chunk_id": 21
+    },
+    {
+      "transcript": "there's some a different way of  their work. Okay. So, like for example, they work on  date So example, if I selecton any day of December, it  will show my",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_196177_205141_0.wav",
+      "recommendation": {},
+      "chunk_id": 22
+    },
+    {
+      "transcript": " old leave balance . Okay.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_205141_207293_1.wav",
+      "recommendation": {},
+      "chunk_id": 23
+    },
+    {
+      "transcript": "Yeah, and if I select any day today. It will show the new new balance. Okay. So they work on the day.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_207293_211701_0.wav",
+      "recommendation": {},
+      "chunk_id": 24
+    },
+    {
+      "transcript": "For example today, if you check the balance, it quite might be different. Okay. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_211701_215577_1.wav",
+      "recommendation": {},
+      "chunk_id": 25
+    },
+    {
+      "transcript": "And tomorrow  if you have leave. And if you select today'sdate  it will show the today's  balance, but if  you select the future date, it,",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_215577_222293_0.wav",
+      "recommendation": {},
+      "chunk_id": 26
+    },
+    {
+      "transcript": " show the future balance after applying for  leave Okay. And the accrual will only get decreased. once the manager approves ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_222293_228533_1.wav",
+      "recommendation": {},
+      "chunk_id": 27
+    },
+    {
+      "transcript": " your leave application. Okay. So we have all kinds of things. Annual leave,  casual leave sick leave. and all  And those work on the calendar year start from January. to december okay.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_226021_238797_0.wav",
+      "recommendation": {},
+      "chunk_id": 28
+    },
+    {
+      "transcript": "Oh, okay. I'm done. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_233689_241141_1.wav",
+      "recommendation": {},
+      "chunk_id": 29
+    },
+    {
+      "transcript": "And uh so as I told you we'll work on a payroll period. which will start from 16th of December, to uh 15th of the january okay .",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_241141_246837_0.wav",
+      "recommendation": {},
+      "chunk_id": 30
+    },
+    {
+      "transcript": "Uh, to  uh, 15th of the January. Okay. So we can change the dates on here pay periodif you go  it will  show from  november 15th to uh november 16th to uh december 15th okay.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_246837_253641_1.wav",
+      "recommendation": {},
+      "chunk_id": 31
+    },
+    {
+      "transcript": "So much of a team. Okay. And you could set a date sort of format. The calendars are live a little bit. If you wanted to also look at time card and to share it to anyone, you could click here  and you can select the dates also from here the calendar is available over here, if you want to download the timecard and to share it to anyone and you can click here and you can download the time card okay  and the most important thing, what we all we always want to know how to apply for leave  So if you  want to apply for, leave you to come on a time card, you can see this, my calendar, click on my calendar. You'll see this option. You just click on pop up  the calendar appear ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_257378_283879_1.wav",
+      "recommendation": {},
+      "chunk_id": 32
+    },
+    {
+      "transcript": "So much of a team. Okay. And you could set a date sort of format. The calendars are live a little bit. If you wanted to also look at time card and to share it to anyone, you could click here  and you can select the dates also from here the calendar is available over here, if you want to download the timecard and to share it to anyone and you can click here and you can download the time card okay  and the most important thing, what we all we always want to know how to apply for leave  So if you  want to apply for, leave you to come on a time card, you can see this, my calendar, click on my calendar. You'll see this option. You just click on pop up  the calendar appear ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_257378_283879_1.wav",
+      "recommendation": {},
+      "chunk_id": 33
+    },
+    {
+      "transcript": "just slowly. So they  have a term called request time off ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_283879_287095_0.wav",
+      "recommendation": {},
+      "chunk_id": 34
+    },
+    {
+      "transcript": "so they have a term called request time off click on this. Okay. Select   ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_287095_290919_1.wav",
+      "recommendation": {},
+      "chunk_id": 35
+    },
+    {
+      "transcript": " the uh type of leave. You want to apply  annual leave  casual leave or whatever you want.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_290919_295219_0.wav",
+      "recommendation": {},
+      "chunk_id": 36
+    },
+    {
+      "transcript": "You can select it.  select that date [okay. Let's set a date. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_293187_300163_1.wav",
+      "recommendation": {},
+      "chunk_id": 37
+    },
+    {
+      "transcript": "Yeah. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_300163_302355_0.wav",
+      "recommendation": {},
+      "chunk_id": 38
+    },
+    {
+      "transcript": "Oh, really? Okay. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_303419_306603_2.wav",
+      "recommendation": {},
+      "chunk_id": 39
+    },
+    {
+      "transcript": "so tomorrow I'm going on leave so I will just practical example i'll say uh uh vacation Okay. And you can  just submit this leave . So once you submit this leave, leave,  will go to your manager, your manager need  to approve and once they  approave. It will reflect on your Timecard. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_306603_317367_1.wav",
+      "recommendation": {},
+      "chunk_id": 40
+    },
+    {
+      "transcript": "Yes. in case if you have applied wrongly you have to click once you have to click on this and right. Click and click on cancel. This will also go to your manager for approval when  they approved the leave again get  updated  about the leave",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_317367_329035_0.wav",
+      "recommendation": {},
+      "chunk_id": 41
+    },
+    {
+      "transcript": " that's it about the leaves. Okay. And if you want to  go  again xback to time card, just click here and pop-out .This is a time card  And if you ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_329035_339103_1.wav",
+      "recommendation": {},
+      "chunk_id": 42
+    },
+    {
+      "transcript": "see this as  uh,  grey in  color, grey colour means  it's been signed off. Okay. So",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_339103_345151_0.wav",
+      "recommendation": {},
+      "chunk_id": 43
+    },
+    {
+      "transcript": " we have already  signed off  the time card and it  aleady been processed. Any changes be only  done by the manager? Not by anyone. So if I click as a manager, it cannot do any changes for this, but if I go as a  admin , I can ] do, or if I go  as a manager, I can do nany changesOkay. Uh, and sometimes ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_343107_361003_1.wav",
+      "recommendation": {},
+      "chunk_id": 44
+    },
+    {
+      "transcript": "sometimes the timecard is yellow . Okay. It comes to mustard colour . So I s I'll show ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_361003_364527_0.wav",
+      "recommendation": {},
+      "chunk_id": 45
+    },
+    {
+      "transcript": "why it  happens also  and how to remove that also So I think that is enough for employees. So any questions on how to use the employees tab? Okay. So I i'll take it as, uh, yes. Uh, so you don't have any question on employee  tab  using  as a employee  tab. Now that  i will come out how to  use it as a manager tab Yeah. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_364527_389551_1.wav",
+      "recommendation": {},
+      "chunk_id": 46
+    },
+    {
+      "transcript": "Yeah. Okay. So, uh, when you log in, you'll be getting  this  ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_386603_394931_0.wav",
+      "recommendation": {},
+      "chunk_id": 47
+    },
+    {
+      "transcript": "Oh, yeah. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_396571_399983_4.wav",
+      "recommendation": {},
+      "chunk_id": 48
+    },
+    {
+      "transcript": "Thing okay my information.  not my information  sorry. Sorry.  so it will be like this tab when you log in  you will be  getting  manage my tab, um, uh, thing. And this is a menu, uh, how it looks like when you log in, I'm getting this error because.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_399983_410307_1.wav",
+      "recommendation": {},
+      "chunk_id": 49
+    },
+    {
+      "transcript": "Because our head count is  thirteen  thousand ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_410307_412447_0.wav",
+      "recommendation": {},
+      "chunk_id": 50
+    },
+    {
+      "transcript": "capacity, uh,. So I've made one list to demonstrate. So  I'll show it, yeah. Yeah. Okay. So when you log in, you'll be seen your associates like this. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_412447_422947_1.wav",
+      "recommendation": {},
+      "chunk_id": 51
+    },
+    {
+      "transcript": " okay. And, uh, uh,",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_422947_425611_0.wav",
+      "recommendation": {},
+      "chunk_id": 52
+    },
+    {
+      "transcript": "All this  menu  will be  there on the right hand side on out",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_425611_428931_1.wav",
+      "recommendation": {},
+      "chunk_id": 53
+    },
+    {
+      "transcript": "And you can see  Associate list or over there  it might be more, it can be less depending on  your reportees is, uh, somebody would  ask how to clear the . unexcused absence and all .",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_428931_436019_0.wav",
+      "recommendation": {},
+      "chunk_id": 54
+    },
+    {
+      "transcript": "it is not a big thing,since we're doing manually associates they",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_436019_445611_1.wav",
+      "recommendation": {},
+      "chunk_id": 55
+    },
+    {
+      "transcript": "tend to  update it every day, but wanted to do is update it on a weekly basis or something, or sometimes I'll [ do it in one shot at the end of the month or end of the cycle. That's a reason it shows an  unexcused  absence. So you guys, as a  manager, you can give them a reminder to update the entire amount of time in time out time , or we can update it as a manager. Okay .if So you see here, uh, for this associate, they showed an unexcused absence. If it double click on this, it will take me to the employee's time card for this employee is not updated any in time and out time.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_445611_472307_0.wav",
+      "recommendation": {},
+      "chunk_id": 56
+    },
+    {
+      "transcript": "And it shows you the option. So you guys are a manager, you're going to give them a demand. Yeah.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_456319_459671_1.wav",
+      "recommendation": {},
+      "chunk_id": 57
+    },
+    {
+      "transcript": "  Any internal  in time and out time  Yeah. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_472307_474703_1.wav",
+      "recommendation": {},
+      "chunk_id": 58
+    },
+    {
+      "transcript": "I can ask him to update it. That's it. And it would go, it can get a clarified . Yeah. so i can ask the employee to update it that's it and it'll go , it'll get uh clarified right over here ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_474703_478791_0.wav",
+      "recommendation": {},
+      "chunk_id": 59
+    },
+    {
+      "transcript": " okay  you as a manager have  all the access to senior associates  timecard leave balance, et cetera. So if you come on, come on the right hand side. If we come in or here on the  time card, you can see that as well. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_479931_492059_1.wav",
+      "recommendation": {},
+      "chunk_id": 60
+    },
+    {
+      "transcript": "Uh, uh, uh, the report as you can see all the time cards you can see  over here . Okay. So once you've come to only see one time card, so you have to come over here ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_492059_501035_0.wav",
+      "recommendation": {},
+      "chunk_id": 61
+    },
+    {
+      "transcript": "okay , you can see this and you can click on ind employee. So it will  show all the time cards available under your span. Okay. I need to come here.  because the list is big okay",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_501035_509543_1.wav",
+      "recommendation": {},
+      "chunk_id": 62
+    },
+    {
+      "transcript": "Oh, okay. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_509543_512027_4.wav",
+      "recommendation": {},
+      "chunk_id": 63
+    },
+    {
+      "transcript": "all the time cards available ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_512027_514123_0.wav",
+      "recommendation": {},
+      "chunk_id": 64
+    },
+    {
+      "transcript": "so, it will show all the timecards available under your span, so okay.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_514123_516550_1.wav",
+      "recommendation": {},
+      "chunk_id": 65
+    },
+    {
+      "transcript": " so it is showing for me, because I have to  just created an list to demonstrate how to work. Okay. So you can select a days, and . Yeah. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_516550_522057_0.wav",
+      "recommendation": {},
+      "chunk_id": 66
+    },
+    {
+      "transcript": "yeah. Okay. So currently current  pay period if we take , so I can click here. I can check any of the associates the time card. They're not in the in time out time and  you can check it out from here",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_521024_531705_1.wav",
+      "recommendation": {},
+      "chunk_id": 67
+    },
+    {
+      "transcript": "Yeah. Okay. So I was showing, I was telling  you as a manager  what you have to do is, or  on every 15th or on 16th ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_529045_538241_0.wav",
+      "recommendation": {},
+      "chunk_id": 68
+    },
+    {
+      "transcript": "16th you have to check the time cards,  approve the pending leaves and you have to approve timecard. Okay. So ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_538241_545717_1.wav",
+      "recommendation": {},
+      "chunk_id": 69
+    },
+    {
+      "transcript": "Sometimes you'll be getting, uh, uh, what do you say, uh, uh, query for now from team that I'm not able to update because of timecard has  turned  yellow  Yeah. Yeah. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_545717_554361_0.wav",
+      "recommendation": {},
+      "chunk_id": 70
+    },
+    {
+      "transcript": "Um, so javed I will share my screen because I'm not able to navigate it exactly the way you're doing. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_554361_566465_3.wav",
+      "recommendation": {},
+      "chunk_id": 71
+    },
+    {
+      "transcript": "Um, okay. Yeah. you can ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_566465_570025_2.wav",
+      "recommendation": {},
+      "chunk_id": 72
+    },
+    {
+      "transcript": "Okay.  just the first entry that  will  help  me after that I will follow the steps that I know.you're showing ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_570781_577885_3.wav",
+      "recommendation": {},
+      "chunk_id": 73
+    },
+    {
+      "transcript": "Oh, yeah. Okay. You can show us. share your screen now",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_577885_580197_1.wav",
+      "recommendation": {},
+      "chunk_id": 74
+    },
+    {
+      "transcript": "okay.   see right now.  can you see my screen? yeah I can see, I can see. see I can see manage employee every time I come here, I don't directly get anything here. Then when I click, I see the exception, then they go to the names and then it can,  see",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_580197_606289_3.wav",
+      "recommendation": {},
+      "chunk_id": 75
+    },
+    {
+      "transcript": "I so you can see this, uh, on the corner, you can see home",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_607813_610101_1.wav",
+      "recommendation": {},
+      "chunk_id": 76
+    },
+    {
+      "transcript": "Oh, yeah.here? ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_610101_613161_3.wav",
+      "recommendation": {},
+      "chunk_id": 77
+    },
+    {
+      "transcript": "no not here  Besides this lelft  down down. You can see all all homes, here here right Hand side.   down you can see here all home  yes down  yes click there ind employees",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_613161_628645_1.wav",
+      "recommendation": {},
+      "chunk_id": 78
+    },
+    {
+      "transcript": "one second. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_628645_637369_4.wav",
+      "recommendation": {},
+      "chunk_id": 79
+    },
+    {
+      "transcript": " you have not been assigned as a manager let me check but then I get all the request See here one second all the exceptions come to me. Okay ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_638369_652473_3.wav",
+      "recommendation": {},
+      "chunk_id": 80
+    },
+    {
+      "transcript": "Oh, right, right. Okay. Bye. you have around uh nine people  nine portal right ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_654921_660769_3.wav",
+      "recommendation": {},
+      "chunk_id": 81
+    },
+    {
+      "transcript": "okay  I  select don't know why  no select current pay period beside ind employee yeah select current pay period oh okay yeah because because you got recent  I think from 1st jan it will be assigned to you ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_660769_665829_1.wav",
+      "recommendation": {},
+      "chunk_id": 82
+    },
+    {
+      "transcript": "Oh, yeah. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_665829_670393_3.wav",
+      "recommendation": {},
+      "chunk_id": 83
+    },
+    {
+      "transcript": "Oh, okay. You got it! Yeah yes correct so are assigned to you from first jan",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_670393_677913_1.wav",
+      "recommendation": {},
+      "chunk_id": 84
+    },
+    {
+      "transcript": "Oh,  That's fine. And for silpa and shavanti, I have to change the shift timings",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_679797_686197_3.wav",
+      "recommendation": {},
+      "chunk_id": 85
+    },
+    {
+      "transcript": "Okay. So, uh, first seeing the shift timing, can you, you have  to click on, go to schedule planner  Okay. since we are on this page, let me tell you, uh, two things over there. So there are two ways of updating shift timings. One is updating shifts coming for one day, a particular day like for example, as well. So if is associate is working Saturday. You can assign, uh, shift  for one day and that technique what I'm going to show you now. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_686197_728829_0.wav",
+      "recommendation": {},
+      "chunk_id": 86
+    },
+    {
+      "transcript": "And the technique, what I'm going to show you now, it is for assigning for a long span. Okay. Now I'll right click on the name schedule planner , see why is it saying not yet hired what is your  joining  ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_726029_738993_1.wav",
+      "recommendation": {},
+      "chunk_id": 87
+    },
+    {
+      "transcript": "Yeah, right. And see why is it saying not yet hired ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_738993_741441_3.wav",
+      "recommendation": {},
+      "chunk_id": 88
+    },
+    {
+      "transcript": " what is your joining? uh  what's your joining date shilpa ? It's December 21st. Kajari  Exactly. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_741441_752873_4.wav",
+      "recommendation": {},
+      "chunk_id": 89
+    },
+    {
+      "transcript": "so we started from 16th no it will show like that not to worry you  canjust try  right click okay  schedule pattern first one. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_752873_759625_0.wav",
+      "recommendation": {},
+      "chunk_id": 90
+    },
+    {
+      "transcript": "Oh, okay. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_759625_766301_4.wav",
+      "recommendation": {},
+      "chunk_id": 91
+    },
+    {
+      "transcript": " so what you can do is you can  edit or you can  delete this. shift ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_766801_768865_1.wav",
+      "recommendation": {},
+      "chunk_id": 92
+    },
+    {
+      "transcript": " okay. you can  click on the delete. Delete the shift better ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_768865_771633_0.wav",
+      "recommendation": {},
+      "chunk_id": 93
+    },
+    {
+      "transcript": "okay. Since we are assigning completely, we should delete it and assign it. If you want to edit, add pattern. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_771633_782009_1.wav",
+      "recommendation": {},
+      "chunk_id": 94
+    },
+    {
+      "transcript": "yes now your  start date should be 16th of the month we call. But since  she has joined 20th we should select 20th",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_782009_791645_0.wav",
+      "recommendation": {},
+      "chunk_id": 95
+    },
+    {
+      "transcript": "Not that one no no wait wait wait not that one you have to select start date as 20th first .oh sorry here 20th December. Okay, great. Great. And anchor date it will be, uh, the beginning of the",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_791645_804597_1.wav",
+      "recommendation": {},
+      "chunk_id": 96
+    },
+    {
+      "transcript": "Beginning of the week of the start date. So click there. So we have taken 20  ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_802181_809653_0.wav",
+      "recommendation": {},
+      "chunk_id": 97
+    },
+    {
+      "transcript": " 21st actually okay Monday ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_810685_813733_4.wav",
+      "recommendation": {},
+      "chunk_id": 98
+    },
+    {
+      "transcript": " okay 21st. And the answer,so it will be  21st and and the anchor date will be 20 because it will be beginning of the week. So  20th is the beginning of a week right yes",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_813733_824329_1.wav",
+      "recommendation": {},
+      "chunk_id": 99
+    },
+    {
+      "transcript": " so Sunday is always  the anchor day  ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_825329_827533_3.wav",
+      "recommendation": {},
+      "chunk_id": 100
+    },
+    {
+      "transcript": "exactly Kajari, okay, this isn't it. Okay.  Now you have to click on pattern template. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_828705_836357_1.wav",
+      "recommendation": {},
+      "chunk_id": 101
+    },
+    {
+      "transcript": "Now check which shift is working just select a shift so it tells multiple like Saturday Sunday off Friday Saturday off kind of thing so which shift is working you have ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_838625_843853_1.wav",
+      "recommendation": {},
+      "chunk_id": 102
+    },
+    {
+      "transcript": "To scroll and see 12:00 - 9:00 Saturday Sunday off yeah click there",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_844981_848805_3.wav",
+      "recommendation": {},
+      "chunk_id": 103
+    },
+    {
+      "transcript": "okay now it seems we are allocating in a new way you just have to click apply if it is if there's already one  shift if you have allocated on that you have to click on over write other pattern okay   okay got it so i'll just apply apply",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_848805_860241_0.wav",
+      "recommendation": {},
+      "chunk_id": 104
+    },
+    {
+      "transcript": "say  Okay. And you can on the right hand side you can  see  a  save option. Yeah  yes  save it off  .",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_864013_875161_0.wav",
+      "recommendation": {},
+      "chunk_id": 105
+    },
+    {
+      "transcript": " okay so I'll do the rest ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_875161_877837_3.wav",
+      "recommendation": {},
+      "chunk_id": 106
+    },
+    {
+      "transcript": "After that, now  just check on  a time card.  It will show that it's updated",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_877837_881373_0.wav",
+      "recommendation": {},
+      "chunk_id": 107
+    },
+    {
+      "transcript": " Okay. now how to  go to the timecard. Like I just  I'll just  go from here. Right?  You can go from anywhere yeah refresh this  okay",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_881905_890569_3.wav",
+      "recommendation": {},
+      "chunk_id": 108
+    },
+    {
+      "transcript": "Yeah. Yeah, yeah, yeah. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_890569_893253_0.wav",
+      "recommendation": {},
+      "chunk_id": 109
+    },
+    {
+      "transcript": "refresh this  you can see refersh options  here  Yeah it got changed ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_893253_897877_1.wav",
+      "recommendation": {},
+      "chunk_id": 110
+    },
+    {
+      "transcript": "Yes,  correct  yes  Now my last question is the exceptions. That means many haven't applied, right? Like they haven't updated it yet, so  so  I will.   click",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_897877_916097_3.wav",
+      "recommendation": {},
+      "chunk_id": 111
+    },
+    {
+      "transcript": "go go tell me tell me ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_916097_918409_0.wav",
+      "recommendation": {},
+      "chunk_id": 112
+    },
+    {
+      "transcript": "So I have to send a reminder.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_919293_923917_3.wav",
+      "recommendation": {},
+      "chunk_id": 113
+    },
+    {
+      "transcript": "  you  Just have to ping a, your associates that you've not updated, your in-time and out-time please update it.That's it.  Okay.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_923917_930709_1.wav",
+      "recommendation": {},
+      "chunk_id": 114
+    },
+    {
+      "transcript": "That's it. Nothing to do from my side.  I'll just   no no you just have to  remind them remind them  if  I cannot do any changes here from my side right.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_930709_938097_3.wav",
+      "recommendation": {},
+      "chunk_id": 115
+    },
+    {
+      "transcript": " no you can do see you  Yeah. Okay you As a manager. You have all the, all the authority to update the in time out time.  apply leave.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_938097_945485_0.wav",
+      "recommendation": {},
+      "chunk_id": 116
+    },
+    {
+      "transcript": "Anything you can do for the associate.got it ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_943793_948809_1.wav",
+      "recommendation": {},
+      "chunk_id": 117
+    },
+    {
+      "transcript": "Um, but, uh, yeah, first I will remind them. So what happens if they don't update by 15th, then the salary gets deducted, right?",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_948809_959353_3.wav",
+      "recommendation": {},
+      "chunk_id": 118
+    },
+    {
+      "transcript": "see salary will not get impact  impacted because  as of now   we're  not taking attendance for  salary, but yes, the shift timings and over time  will get impacted",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_959353_965333_1.wav",
+      "recommendation": {},
+      "chunk_id": 119
+    },
+    {
+      "transcript": "Oh, Got it. Then i'll  tell everybody, so another thing is I see, uh, a notification here  right   yeah okay  it's a leave request that I it's a leave request    Oh, okay no  there is something called a manager delegation one. Yeah. i don't know what that  ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_965333_981705_3.wav",
+      "recommendation": {},
+      "chunk_id": 120
+    },
+    {
+      "transcript": "Yeah,  I'll tell I'll  show you that also.  Okay.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_981705_985433_1.wav",
+      "recommendation": {},
+      "chunk_id": 121
+    },
+    {
+      "transcript": "Oh, okay. This is what I have. I don't know.  what",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_985433_990057_3.wav",
+      "recommendation": {},
+      "chunk_id": 122
+    },
+    {
+      "transcript": "Okay no no  somebody else  has  sent you  by mistake.  see manager manager delegations,  is  like, uhh, for example, if you are going on a long  leave and you're not means you're not be available for some time, so you can delegate.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_991325_999881_1.wav",
+      "recommendation": {},
+      "chunk_id": 123
+    },
+    {
+      "transcript": "Your, your log in authority.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_993985_1002277_0.wav",
+      "recommendation": {},
+      "chunk_id": 124
+    },
+    {
+      "transcript": "to  somebody of some of your team mate who will handle for you . for some days",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1002277_1004501_1.wav",
+      "recommendation": {},
+      "chunk_id": 125
+    },
+    {
+      "transcript": "Oh, okay. It is just a self so  I think maybe I clicked it or .",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1005353_1009869_3.wav",
+      "recommendation": {},
+      "chunk_id": 126
+    },
+    {
+      "transcript": "I think It is come to you by mistake, so don't accept it   leave it off.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1011329_1013501_0.wav",
+      "recommendation": {},
+      "chunk_id": 127
+    },
+    {
+      "transcript": "okay okay  got it   so  these are the main, anything else I should know?. These are the main three questions I  had",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1015249_1021105_3.wav",
+      "recommendation": {},
+      "chunk_id": 128
+    },
+    {
+      "transcript": "yes you should know one more thing okay now come to manage my employees Yeah. First tab   correct, uh, uh, click on this, this review punch  exception",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1024853_1030790_0.wav",
+      "recommendation": {},
+      "chunk_id": 129
+    },
+    {
+      "transcript": "Yes.  there",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1030790_1034714_2.wav",
+      "recommendation": {},
+      "chunk_id": 130
+    },
+    {
+      "transcript": "okay. So on every 16th, okay. or 17th  okay let's  take 16th. you have to validate all the associate time card ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1034714_1042094_0.wav",
+      "recommendation": {},
+      "chunk_id": 131
+    },
+    {
+      "transcript": "As a manager and make sure.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1042094_1044971_1.wav",
+      "recommendation": {},
+      "chunk_id": 132
+    },
+    {
+      "transcript": "Sure that they have updated all the punches and, uh, if they have applied for leave and all your  you have to approve that. Okay. Once you do that, you have to approve the time card from him.  Got it. Got it. Okay. Once they approve the time, card   will  turn yellow. Okay. It means that the associate cannot do any changes, but you'll  you  have your the  authority to remove the, uh, approval also. Okay. So when it is yellow color, it can be, uh,removed  but when it comes grey  color, it cannot be changed. Anything.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1044971_1072731_0.wav",
+      "recommendation": {},
+      "chunk_id": 133
+    },
+    {
+      "transcript": " so now it is all white what  does it mean I can make changes  no no no",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1072731_1076319_3.wav",
+      "recommendation": {},
+      "chunk_id": 134
+    },
+    {
+      "transcript": " not this  on the timecard.  Oh, okay.  okay  Sorry. this this is the summary  this is the summary",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1076915_1082599_2.wav",
+      "recommendation": {},
+      "chunk_id": 135
+    },
+    {
+      "transcript": " so you have an  activity as a manager on 16th , you have to validate all the timecards",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1083195_1085919_1.wav",
+      "recommendation": {},
+      "chunk_id": 136
+    },
+    {
+      "transcript": "all the time cards, all the leave requests  should be approved   and you have to click on once the   video  is  done  you have to click  on approve so all the time card will get up . It's not mandatory   but it's a good practise to approve it as a manager",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1085919_1095011_0.wav",
+      "recommendation": {},
+      "chunk_id": 137
+    },
+    {
+      "transcript": " to approve it as a manager.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1095011_1097491_1.wav",
+      "recommendation": {},
+      "chunk_id": 138
+    },
+    {
+      "transcript": "Yeah, got it. And now one thing see here I changed  okay, so this sravanti  when I change It won't be unscheduled anymore. As soon as change  here, uh,shift it will be all scheduled",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1097491_1110407_3.wav",
+      "recommendation": {},
+      "chunk_id": 139
+    },
+    {
+      "transcript": " yes yes   You got it.  Exactly Okay. Understood. Okay.  Now one more thing. on the right hand side Can you see, uh, do you have.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1111515_1121583_0.wav",
+      "recommendation": {},
+      "chunk_id": 140
+    },
+    {
+      "transcript": "okay. You can see manage employee request  Yes, click there",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1121583_1127903_1.wav",
+      "recommendation": {},
+      "chunk_id": 141
+    },
+    {
+      "transcript": "So these are nothing, but these are, uh, uh, uh, your employees, uh, leave request which  comes to you.  Okay.  Okay. So here the request will  reflect to you. Okay. But for that, uh, I see right now, there's no nobody has submitted it yet.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1127903_1144823_0.wav",
+      "recommendation": {},
+      "chunk_id": 142
+    },
+    {
+      "transcript": "Yeah. So you can see here so you have select the dates  over here. Okay like from 16th to 15th",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1144823_1148443_4.wav",
+      "recommendation": {},
+      "chunk_id": 143
+    },
+    {
+      "transcript": "how many have submitted. You can see that date column on the right hand side.  yes  Yeah. So I know. And I decided to see one  employee, so you can see all employees over there . ind employees ind employees  Yes.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1146303_1164303_1.wav",
+      "recommendation": {},
+      "chunk_id": 144
+    },
+    {
+      "transcript": "okay i think Nobody has applied for leave  as of now. Right.  So once they  apply for leave. The leave a request will come over here. You have to just select that then approve option will  uh, popup just approve it and",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1164303_1174023_0.wav",
+      "recommendation": {},
+      "chunk_id": 145
+    },
+    {
+      "transcript": "and  that's it. Oh, okay. Okay. And is your team eligible for overtime?",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1171415_1181151_1.wav",
+      "recommendation": {},
+      "chunk_id": 146
+    },
+    {
+      "transcript": "Um, I don't know. I have to ask my manager",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1181151_1185627_3.wav",
+      "recommendation": {},
+      "chunk_id": 147
+    },
+    {
+      "transcript": "okay. Okay. Okay.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1185627_1188623_2.wav",
+      "recommendation": {},
+      "chunk_id": 148
+    },
+    {
+      "transcript": "okay and I don't think so I don't think he'll in our tower we have any overtime ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1189443_1193519_3.wav",
+      "recommendation": {},
+      "chunk_id": 149
+    },
+    {
+      "transcript": "Oh, okay. Okay. I just telling Okay. But, uh, you as a manager has one more option, can you see that add  request, a small icon? See, on the left hand side a very small icon yeah.   yeah left side  .",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1193519_1206323_1.wav",
+      "recommendation": {},
+      "chunk_id": 150
+    },
+    {
+      "transcript": "Let's side,come down, down, down down. here here  on the, on the top of the columns. Add  request yes yes click there Okay. So you can apply any leave for your associates  on their behalf if they are not able to apply they forgot  to apply  Okay.  okay  That's a good you have to select the employee name here   okay   select a employee name here  ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1206323_1228135_0.wav",
+      "recommendation": {},
+      "chunk_id": 151
+    },
+    {
+      "transcript": "Oh, okay. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1226347_1231183_1.wav",
+      "recommendation": {},
+      "chunk_id": 152
+    },
+    {
+      "transcript": "from  the list. Okay. And what type of leave they want to apply okay  and uh date and just submit it that's it",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1231183_1237327_0.wav",
+      "recommendation": {},
+      "chunk_id": 153
+    },
+    {
+      "transcript": "okay. just submit it  that's it.  and  One more thing.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1237327_1240779_1.wav",
+      "recommendation": {},
+      "chunk_id": 154
+    },
+    {
+      "transcript": "if you click on it just for your information, click on that leave type .no leave type leave type second  one  top, on the  top on the top.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1240779_1253051_0.wav",
+      "recommendation": {},
+      "chunk_id": 155
+    },
+    {
+      "transcript": "Oh, I see. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1253051_1256335_4.wav",
+      "recommendation": {},
+      "chunk_id": 156
+    },
+    {
+      "transcript": " scroll down so you can see that uh , uh, you can see ind weekend OT and weekday OT.  ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1256335_1259591_0.wav",
+      "recommendation": {},
+      "chunk_id": 157
+    },
+    {
+      "transcript": "just for your information in the associates, if the team mates are eligible. They can apply for overtime weekday or a weekend, depending on which day they have work and the request will come to you",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1257559_1268819_1.wav",
+      "recommendation": {},
+      "chunk_id": 158
+    },
+    {
+      "transcript": "to  you, you have to validate and approve it and it will be paid  along with the salary.  Okay. Got it.  Okay. So this is, this is about the leave request time and all  , Okay.  okay  Now you can go to  time cards again. Yeah. Click on that time card. second.  second option ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1268819_1287067_0.wav",
+      "recommendation": {},
+      "chunk_id": 159
+    },
+    {
+      "transcript": " timecard You can see it.  Yeah.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1287067_1290531_1.wav",
+      "recommendation": {},
+      "chunk_id": 160
+    },
+    {
+      "transcript": "Yeah. Yeah.  And one more thing. See, the shift allowance is  What we pay to  associates based on the shift they're working",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1290531_1303563_0.wav",
+      "recommendation": {},
+      "chunk_id": 161
+    },
+    {
+      "transcript": "Okay. Like 8:00  am to 5:00 pm is general shift it is non-payable",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1303563_1306575_1.wav",
+      "recommendation": {},
+      "chunk_id": 162
+    },
+    {
+      "transcript": "Uh, then, uh, 10, to 7 is a general shift   But apart from other, uh, those other shifts are payable  so they get, uh, shift allowance for those days okay ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1306575_1314047_0.wav",
+      "recommendation": {},
+      "chunk_id": 163
+    },
+    {
+      "transcript": "so shift allowance are purely  dependent on the, our schedule, what we assign to them. Oh, okay.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1315783_1319531_1.wav",
+      "recommendation": {},
+      "chunk_id": 164
+    },
+    {
+      "transcript": " Got it.  So for example, if your  associate is working from 12 to 9 so he's eligible to get 250 rupees  per day. But if you're assigned  the wrong sheet, you will not be paid  shift allownaces because it is purely based on your shift schedule, time, whatever it is applied to them  got it   Yeah.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1316443_1332443_0.wav",
+      "recommendation": {},
+      "chunk_id": 165
+    },
+    {
+      "transcript": "Yeah, go ahead. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1332443_1336227_1.wav",
+      "recommendation": {},
+      "chunk_id": 166
+    },
+    {
+      "transcript": "okay so you  have to make sure that, uh, the schedules are up-to-date, uh, in whichever shift They're working a time. Might come that, for some like one,one week or two.one week or something ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1336227_1346575_0.wav",
+      "recommendation": {},
+      "chunk_id": 167
+    },
+    {
+      "transcript": "Something will be working different shifts, that you can change also  from schedule pattern. Okay.  Okay,That is a thing, uh",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1346575_1354519_1.wav",
+      "recommendation": {},
+      "chunk_id": 168
+    },
+    {
+      "transcript": "and what is  spending. okay uh ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1354519_1357567_2.wav",
+      "recommendation": {},
+      "chunk_id": 169
+    },
+    {
+      "transcript": " you can see this approve time card, right? Yes one  small icon  on the left hand side.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1357567_1367903_0.wav",
+      "recommendation": {},
+      "chunk_id": 170
+    },
+    {
+      "transcript": " below the name   yes  Yeah. Yeah, beside that.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1367903_1373007_1.wav",
+      "recommendation": {},
+      "chunk_id": 171
+    },
+    {
+      "transcript": "Oh, okay. ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1373007_1375363_3.wav",
+      "recommendation": {},
+      "chunk_id": 172
+    },
+    {
+      "transcript": "Yeah,  click here approve the timecard  I will click here yeah click it click it no worries click it. Um, so, uh,  see when you approve the timecard it turns yellow",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1376535_1381455_0.wav",
+      "recommendation": {},
+      "chunk_id": 173
+    },
+    {
+      "transcript": "Oh, okay. Now no changes can be done by the  associate, it means that you have  validated and approved it  Okay.  Okay. And sometimes by default,  this will be reflecting and  uh, associate will not be able to do the changes. Yeah.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1381455_1393323_1.wav",
+      "recommendation": {},
+      "chunk_id": 174
+    },
+    {
+      "transcript": "if he request you that I'm not able to do the  changes and it is refleccting yellow color you can remove time card  approval.  just click on approval again remove all timecard approval  last one last option okay yes",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1388267_1399987_0.wav",
+      "recommendation": {},
+      "chunk_id": 175
+    },
+    {
+      "transcript": "remove all timecard approval last one, last one. option   Okay Yes. Now it is editable Okay. Okay. Okay.  so this is done and uh",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1397271_1411123_1.wav",
+      "recommendation": {},
+      "chunk_id": 176
+    },
+    {
+      "transcript": " so you know how to apply leave  Right? I told you how to apply. Leave yes  and , uh, how to, uh, check the timecard , how to clear the",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1411123_1420887_0.wav",
+      "recommendation": {},
+      "chunk_id": 177
+    },
+    {
+      "transcript": "Exceptions. Okay.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1420887_1423487_1.wav",
+      "recommendation": {},
+      "chunk_id": 178
+    },
+    {
+      "transcript": "then leaves  I've told  you yeah I think yeah I told you almost everything",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1423487_1426831_0.wav",
+      "recommendation": {},
+      "chunk_id": 179
+    },
+    {
+      "transcript": "great  okay   thank you so much javed  ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1426831_1429859_1.wav",
+      "recommendation": {},
+      "chunk_id": 180
+    },
+    {
+      "transcript": "team any questions you have for javed? Because many of you I see haven't entered any entries. I guess, uh, nobody has any questions. I think we are good to go  javed thank you so much for this.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1430391_1453319_3.wav",
+      "recommendation": {},
+      "chunk_id": 181
+    },
+    {
+      "transcript": "Yeah,  so any queries please write to me, I'll defnitely happy to help you",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1453319_1457099_0.wav",
+      "recommendation": {},
+      "chunk_id": 182
+    },
+    {
+      "transcript": "sure.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1457099_1459263_2.wav",
+      "recommendation": {},
+      "chunk_id": 183
+    },
+    {
+      "transcript": "I have a 1 unrelated query Javed . Um, so yesterday I got my insurance ID password because, uh, I am, uh, one month here now. Um, uh, so I updated everything. It is frozen. Um, now I see in, uh, pulse there is an  uh, etime sorry FHPL link , is that the place where I will  get all the policy details and everything where I  can upload claims?",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1459263_1488083_3.wav",
+      "recommendation": {},
+      "chunk_id": 184
+    },
+    {
+      "transcript": " no if you want so you've not updated the  dependent detail in, uh, in that portal. what  you got the link and all",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1489979_1494227_0.wav",
+      "recommendation": {},
+      "chunk_id": 185
+    },
+    {
+      "transcript": "I have, those are done, but I don't know where to get the policy.  details  Yeah.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1494727_1498815_3.wav",
+      "recommendation": {},
+      "chunk_id": 186
+    },
+    {
+      "transcript": "Oh, okay. You want to okay can go into pulse  policy no we have policy,  we have HR policies in that we have this medical policy, you can read over there . Yeah.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1500307_1508099_0.wav",
+      "recommendation": {},
+      "chunk_id": 187
+    },
+    {
+      "transcript": "Okay. Okay. Got it. So there is no other link to so when if I have to claim what should I do it I will  call that TPN number.?  uh yes Okay.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1508099_1516127_3.wav",
+      "recommendation": {},
+      "chunk_id": 188
+    },
+    {
+      "transcript": "see   there are two ways.right  One is, uh cash less and one is cash so cashless is uh  They get it done  from the hospital itself. So you just have to go and give your uh, ID card and your adhaar  card copy and, uh, uh, your FHPL mediclaim card  If you give these 3 things  they will only fill   all the form and then submit that claim  to, uh, respective  company. You just have to inform somebody from our teams that I've submitted the claim, please ask just follow up. So we'll try   to contact them and get it get it.  approved   from our side",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1517703_1549043_0.wav",
+      "recommendation": {},
+      "chunk_id": 189
+    },
+    {
+      "transcript": "Okay. And second is for and second is cash",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1548043_1553867_1.wav",
+      "recommendation": {},
+      "chunk_id": 190
+    },
+    {
+      "transcript": "where you  go to a hospital, do all the  treatment, get all the bills. The form  is available online, take a print-out fill it  and send it to the respective, spoc of  the medical insurance. So prashant is the spoc  for us, you I think now they are taking courier or we can send the scanned copies, also send it to them and they'll process  ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1553867_1569579_0.wav",
+      "recommendation": {},
+      "chunk_id": 191
+    },
+    {
+      "transcript": " that's it.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1569579_1571903_1.wav",
+      "recommendation": {},
+      "chunk_id": 192
+    },
+    {
+      "transcript": "Okay good So there is no other portal that I have to login. I got it. I was a bit confused about that. Got it.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1571903_1577683_3.wav",
+      "recommendation": {},
+      "chunk_id": 193
+    },
+    {
+      "transcript": " With few days, you'll be getting  I think you may get a confirmation on that?  id is created and all anyway  call from day one. Okay. No need to worry about that. They're covered from day one,but to get your card",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1577683_1588307_0.wav",
+      "recommendation": {},
+      "chunk_id": 194
+    },
+    {
+      "transcript": "It might take some, uh, 15 days, something to get your, uh e-card soon. Okay. Got it thank you Javed",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1588307_1593419_1.wav",
+      "recommendation": {},
+      "chunk_id": 195
+    },
+    {
+      "transcript": "Yeah, so Javid, uh, before we leave sravanti here, I have with one question so I was  it just going through my timecard, uh, and the accruals are showing my annual leave is one and a half day. So how exactly should am i  right or wrong?",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1595327_1611367_6.wav",
+      "recommendation": {},
+      "chunk_id": 196
+    },
+    {
+      "transcript": "I told you that is the thing. See when you  open a time, it will  show the accruals from the beginning of the timecard .",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1611367_1616179_0.wav",
+      "recommendation": {},
+      "chunk_id": 197
+    },
+    {
+      "transcript": "like from 16th of the month. So what you do you select ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1617775_1619787_2.wav",
+      "recommendation": {},
+      "chunk_id": 198
+    },
+    {
+      "transcript": "Today's date  if you select today's date You'll see the updated numbers.  and accruals",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1618307_1624419_0.wav",
+      "recommendation": {},
+      "chunk_id": 199
+    },
+    {
+      "transcript": " today's date ok sorry   Maybe I missed that point.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1624419_1630027_2.wav",
+      "recommendation": {},
+      "chunk_id": 200
+    },
+    {
+      "transcript": " see what happened on May 31st, the  till  31st, the accrual was old from  First January the accrual. Got updated for new year",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1630027_1638055_0.wav",
+      "recommendation": {},
+      "chunk_id": 201
+    },
+    {
+      "transcript": "Okay. Okay.so if you select on first of first of january or today's date, it will show the updated uh  numbers   okay understood",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1638055_1640475_4.wav",
+      "recommendation": {},
+      "chunk_id": 202
+    },
+    {
+      "transcript": " I know. now  I am able to see. Thank you",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1645359_1654583_6.wav",
+      "recommendation": {},
+      "chunk_id": 203
+    },
+    {
+      "transcript": " so any questions for me?   Yeah,  hi javed while applying  leaves for multiple days. Should we select individual days or the in the start date mentioned the leaves start date and end date. ?",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1655083_1667663_5.wav",
+      "recommendation": {},
+      "chunk_id": 204
+    },
+    {
+      "transcript": "Oh, I see if, if the leaves  are coming",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1667663_1669675_4.wav",
+      "recommendation": {},
+      "chunk_id": 205
+    },
+    {
+      "transcript": "In one line only you can  select a start date and end date and later you can apply for leave don't worry  it will not take the weekend or holiday automatically  it will only take for theworking days.  okay yeah  the system is configures in such a way that yourweekends. And you're a holiday. It will not be taking any leave   it will only take the working days as leave that's it",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1670175_1684759_1.wav",
+      "recommendation": {},
+      "chunk_id": 206
+    },
+    {
+      "transcript": "Yeah. I guess we are good to go, javed  Thank you so much. Bye bye.  no problem thank you very much kajari thank you guys  thank you  thank you javed  bye bye",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_1686675_1703991_3.wav",
+      "recommendation": {},
+      "chunk_id": 207
+    }
+  ]
+}

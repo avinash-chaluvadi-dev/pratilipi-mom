@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "model": "speech_to_text",
+  "response": [
+    {
+      "text": "Okay so uh this is how the e-time tool looks like. Okay. So if you're a manager, you'll also get this kind of thing only payroll administrator role. you will be getting manage by employees tab since I'm, I admin, I have lots of access to it so you might have not have those access okay. So let me  brief you what access you have and what as a manager you have to do and what as employee you have to do okay ",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_5968_22800_1.wav",
+      "summary": "access to payroll admistration tab, tasks description as a manager and as an employee.",
+      "chunk_id": 0
+    },
+    {
+      "text": "Dean blanked from his mind what he was about to do, concentrating on the task at hand.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_5968_22800_1.wav",
+      "summary": "Dean was blanked from his mind.",
+      "chunk_id": 1
+    },
+    {
+      "text": "You can increase your typing speed by practicing with typing tutor software. It is very helpful for everyone.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_5968_22800_1.wav",
+      "summary": "You can increase typing speed by practicing with typing tutor software.",
+      "chunk_id": 2
+    },
+    {
+      "text": "Jimmy likes to take cream and sugar with his coffee; when he drinks it warm, he also likes it black.",
+      "audioSnippet": "./operation/hive_operations_20210112_audio_chunk_5968_22800_1.wav",
+      "summary": "Jimmy likes to take cream and sugar with his coffee; when he drinks it warm.",
+      "chunk_id": 3
+    }
+  ]
+}

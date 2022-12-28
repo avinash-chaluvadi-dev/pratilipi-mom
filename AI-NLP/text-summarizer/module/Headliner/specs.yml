@@ -1,0 +1,9 @@
+# This YAML is the interface for the Application development team and the MLOPs teams to integrate the engine
+# in the cloud.
+
+
+version: 0.0.1
+name: Headliner Generation
+headliner_generation:
+  input:
+  output: headliner_generation/output

@@ -1,0 +1,40 @@
+# This YAML is the interface for the Application development team and the MLOPs teams to integrate the engine
+# in the cloud.
+
+version: 0.0.1
+name: Classifier
+ner:
+  input: speech_to_text/output
+  input_file_name: speech_to_text.json
+  output: ner/output
+  output_file_name: ner_output.json
+allocator:
+  input: speech_to_text/output
+  input_file_name: speech_to_text.json
+  output: allocator/output
+  output_file_name: allocator_output.json
+recommendation:
+  input: speech_to_text/output
+  input_file_name: speech_to_text.json
+  output: recommendation/output
+  output_file_name: recommendation_output.json
+marker:
+  input: speech_to_text/output
+  input_file_name: speech_to_text.json
+  output: marker_classifier/output
+  output_file_name: marker_output.json
+label:
+  input: speech_to_text/output
+  input_file_name: speech_to_text.json
+  output: label_classifier/output
+  output_file_name: label_output.json
+sentiment:
+  input: speech_to_text/output
+  input_file_name: speech_to_text.json
+  output: sentiment_classifer/output
+  output_file_name: sentiment_output.json
+escalation:
+  input: speech_to_text/output
+  input_file_name: speech_to_text.json
+  output: escalation_classifier/output
+  output_file_name: escalation_output.json

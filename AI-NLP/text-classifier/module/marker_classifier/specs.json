@@ -1,0 +1,5 @@
+{
+  "model": "FineTunedClassifier_16-55-16-09-2021",
+  "train_accuracy": 0.9,
+  "best_eval_accuracy": 0.2
+}

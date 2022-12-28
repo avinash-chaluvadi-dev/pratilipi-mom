@@ -1,0 +1,28 @@
+{
+
+  "Entities" : [
+    "Date",
+    "Events",
+    "Participant Name",
+    "Reference Name",
+    "Team Name",
+    "Anthem Tools",
+    "Tools",
+    "Technical Platform",
+    "Technologies",
+    "Scrum",
+    "Status"
+  ],
+
+  "Classifier Labels":{
+    "Action" : ["Yes","No"],
+    "Ask" : ["Yes","No"],
+    "Escalation" : ["Yes","No"],
+    "Deadline" : ["Yes","No"],
+    "Recommendation" : ["Yes","No"],
+    "Call Outs" : ["Yes","No"],
+    "Updates" : ["Yes","No"],
+    "Appreciation" : ["Yes","No"],
+    "Sentiments": ["Pos", "Neu", "Neg"]
+  }
+}

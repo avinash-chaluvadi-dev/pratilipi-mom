@@ -1,0 +1,161 @@
+{
+  "Audited Transcripts": [
+    "[SOT][]Oh,[/] okay. So that []if[/] people []don't know.[/][EOT]{'Sentiment': 'Neu','Entity': {'Words':  ['people'], 'Type': ['Team Name']},'Deadline': 'Yes','Escalation': 'Yes','Help': 'No','Question': 'No'}",
+    "[SOT][]yeah[/] [-]we are left with[/-] a week to complete <>a[#]our[/#]</> sprint []yeah[/][EOT]{'Sentiment': 'Neu','Entity': {'Words':  ['sprint'], 'Type': ['Tools']},'Deadline': 'Yes','Escalation': 'Yes','Help': 'No','Question': 'No'}",
+    "[SOT][sp1]This is done[sp1] [sp2] yes [sp2][EOT]{'Sentiment': 'Neu','Entity': {'Words':  ['done'], 'Type': ['Tools']},'Deadline': 'Yes','Escalation': 'Yes','Help': 'No','Question': 'No'}",
+    "[SOT][sp1]With him[sp1].[sp2] Yeah I'm here [sp2][sp1] hey anuj[sp1][EOT]{'Sentiment': 'Neu','Entity': {'Words':  ['anuj'], 'Type': ['Participant Name']},'Deadline': 'Yes','Escalation': 'Yes','Help': 'No','Question': 'No'}",
+    "[SOT][$] sentiment analysis used right so it is again on anujs name so we have two stories which we need to get an update from anuj I'll touch base.[/$][EOT]{'Sentiment': 'Neu','Entity': {'Words':  ['anujs', 'stories', 'anuj'], 'Type': ['Participant Name', 'Tools', 'Participant Name']}, 'Deadline': 'Yes','Escalation': 'Yes','Help': 'No','Question': 'No'}",
+    "[SOT][]Oh,[/] good. Good, []good.[/] So we, []we're[/] <>we're [#]we were[/#]</> talking about the story, which is []an[/] <>an [#]in[/#]</> in progress.[EOT]{'Sentiment': 'Pos','Entity': {'Words':  ['story'], 'Type': ['Tools']},'Deadline': 'Yes','Escalation': 'Yes','Help': 'No','Question': 'No'}",
+    "[SOT]You have two stories on your name, so you can () see yeah[#] provide update for the both please[/#](/) [] for the both please [/].[EOT]{'Sentiment': 'Pos','Entity': {'Words':  ['stories'], 'Type': ['Tools']},'Deadline': 'No','Escalation': 'Yes','Help': 'No','Question': 'No'}",
+    "[SOT][sp1]Yeah. Okay. Thank you [sp1][sp2]and himanshu I'll be not uh joining in sync up call is that okay?[sp2][sp3] no issues no issues no issues [sp3][sp2] yeah yeah okay thank [sp2][sp3][**][sp3][sp2] so much.guys[sp2][EOT]{'Sentiment': 'Pos','Entity': {'Words':  ['himanshu'], 'Type': ['Participant Name']},'Deadline': 'No','Escalation': 'Yes','Help': 'No','Question': 'No'}",
+    "[SOT][sp1]It's 40% better than the previous output approximately [sp1][sp2]right[sp2][sp1][@]forty [#]40[/#][/@][sp1][EOT]{'Sentiment': 'Neg','Entity': {'Words':  [], 'Type': []},'Deadline': 'No','Escalation': 'Yes','Help': 'No','Question': 'No'}",
+    "[SOT][sc]bettar[#]better[/#][/sc][EOT]{'Sentiment': 'Neu','Entity': {'Words':  [], 'Type': []},'Deadline': '','Escalation': '','Help': '','Question': ''}",
+    "[SOT][sp1][-]so you'll be closing the related tasks also right?[/-][sp1][sp2][-]yes yes I'll do.[/-][sp2][sp1]Okay. And []do you[/] [-]kindly[/-] update the uh artifacts []that[/] as well, []as[/] the documents [sp1][sp2]<>Yeah.[#]yes[/#]</> [sp2][EOT]{'Sentiment': 'Neu','Entity': {'Words':  [], 'Type': []},'Deadline': 'No','Escalation': 'Yes','Help': 'No','Question': 'No'}",
+    "[SOT][]Yeah.[/] [sp1]Okay. []So[/] [-]sarika[/-] []uh,[/] do you remember, uh, which one you ()would worked have done?[#]worked on?[/#](/) Uh, do you have the time stamp []per day?[/] [-]for that?[/-][sp1][sp2]Yeah.[sp2][EOT]{'Sentiment': 'Neu','Entity': {'Words':  ['sarika'], 'Type': ['Participant Name']},'Deadline': 'No','Escalation': 'Yes','Help': 'No','Question': 'No'}",
+    "[SOT][]I mean,[/] [sp1]<>Ash[#]Avinash[/#]</>, I mean, will it be <>used[#]useful?[/#]</> [sp1][sp2][-]yes[/-]Yeah.[-]yeah[/-] [sp2][EOT]{'Sentiment': 'Pos','Entity': {'Words':  ['Avinash'], 'Type': ['Participant Name']},'Deadline': 'No','Escalation': 'Yes','Help': 'No','Question': 'No'}",
+    "[SOT][]Oh,[/] sorry,[-]Dhanuj[/-] []the manager[/] I was talking on mute. Yeah. So Divesh uh, uh, [-] I have[/-]one quick question to you. So you were talking about 92 []days,[/] [-]only[/-] right?[EOT]{'Sentiment': 'Pos','Entity': {'Words':  ['Dhanuj', 'Divesh'], 'Type': ['Participant Name', 'Participant Name']},'Deadline': 'No','Escalation': 'Yes','Help': 'No','Question': 'No'}",
+    "[SOT][]Yeah.[/] Okay. Understood. Thank you. <>Find[#]Fine[/#]</> [-]dhanuj go ahead please[/-] []that as well.[/][EOT]{'Sentiment': 'Pos','Entity': {'Words':  ['dhanuj'], 'Type': ['Participant Name']},'Deadline': 'No','Escalation': 'Yes','Help': 'No','Question': 'No'}"
+  ],
+
+  "Cleaned Transcripts": [
+    "okay. So that people",
+    "we are left with a week to complete our sprint",
+    {"sp1":["This is done"], "sp2":["yes"]},
+    {"sp1":["With him", "hey anuj"], "sp2":["Yeah I'm here"]},
+    "sentiment analysis used right so it is again on anujs name so we have two stories which we need to get an update from anuj I'll touch base.",
+    "good. Good, So we, we were talking about the story, which is  in in progress.",
+    "You have two stories on your name, so you can provide update for the both please.",
+    {"sp1":["Yeah. Okay. Thank you "], "sp2":["and himanshu I'll be not uh joining in sync up call is that okay?",  "yeah yeah okay thank", " so much.guys"],
+      "sp3":["no issues no issues no issues ", "[**]"]},
+    {"sp1":["It's 40% better than the previous output approximately", "40"], "sp2":["right"]},
+    "better",
+    {"sp1":["so you'll be closing the related tasks also right?", "Okay. And kindly update the uh artifacts as well, the documents"], "sp2":["yes yes I'll do.",  "yes"]},
+    {"sp1":["Okay. sarika do you remember, uh, which one you worked on? Uh, do you have the time stamp for that?"] , "sp2":["Yeah."]},
+    {"sp1":["Avinash, I mean, will it be useful?"], "sp2":["yes Yeah. yeah"]},
+    "sorry, Dhanuj I was talking on mute. Yeah. So Divesh uh, uh, I have one quick question to you. So you were talking about 92 only right?",
+    "Okay. Understood. Thank you. Fine dhanuj go ahead please"
+  ],
+
+  "Annotation Labels": [
+    {
+      "Sentiment": "Neu",
+      "Entity": {"Words":  ["people"], "Type": ["Team Name"]},
+      "Deadline": "Yes",
+      "Escalation": "Yes",
+      "Help": "No",
+      "Question": "No"
+    },
+    {
+      "Sentiment": "Neu",
+      "Entity": {"Words":  ["sprint"], "Type": ["Tools"]},
+      "Deadline": "Yes",
+      "Escalation": "Yes",
+      "Help": "No",
+      "Question": "No"
+    },
+    {
+        "Sentiment": "Neu",
+        "Entity": {"Words":  ["done"], "Type": ["Tools"]},
+        "Deadline": "Yes",
+        "Escalation": "Yes",
+        "Help": "No",
+        "Question": "No"
+    },
+    {
+      "Sentiment": "Neu",
+      "Entity": {"Words":  ["anuj"], "Type": ["Participant Name"]},
+      "Deadline": "Yes",
+      "Escalation": "Yes",
+      "Help": "No",
+      "Question": "No"
+    },
+    {
+      "Sentiment": "Neu",
+      "Entity": {"Words":  ["anujs", "stories", "anuj"], "Type": ["Participant Name", "Tools", "Participant Name"]},
+      "Deadline": "Yes",
+      "Escalation": "Yes",
+      "Help": "No",
+      "Question": "No"
+    },
+    {
+      "Sentiment": "Pos",
+      "Entity": {"Words":  ["story"], "Type": ["Tools"]},
+      "Deadline": "Yes",
+      "Escalation": "Yes",
+      "Help": "No",
+      "Question": "No"
+    },
+    {
+      "Sentiment": "Pos",
+      "Entity": {"Words":  ["stories"], "Type": ["Tools"]},
+      "Deadline": "No",
+      "Escalation": "Yes",
+      "Help": "No",
+      "Question": "No"
+    },
+    {
+      "Sentiment": "Pos",
+      "Entity": {"Words":  ["himanshu"], "Type": ["Participant Name"]},
+      "Deadline": "No",
+      "Escalation": "Yes",
+      "Help": "No",
+      "Question": "No"
+    },
+    {
+      "Sentiment": "Neg",
+      "Entity": {"Words":  [], "Type": []},
+      "Deadline": "No",
+      "Escalation": "Yes",
+      "Help": "No",
+      "Question": "No"
+    },
+    {
+      "Sentiment": "Neu",
+      "Entity": {"Words":  [], "Type": []},
+      "Deadline": "",
+      "Escalation": "",
+      "Help": "",
+      "Question": ""
+    },
+    {
+      "Sentiment": "Neu",
+      "Entity": {"Words":  [], "Type": []},
+      "Deadline": "No",
+      "Escalation": "Yes",
+      "Help": "No",
+      "Question": "No"
+    },
+    {
+      "Sentiment": "Neu",
+      "Entity": {"Words":  ["sarika"], "Type": ["Participant Name"]},
+      "Deadline": "No",
+      "Escalation": "Yes",
+      "Help": "No",
+      "Question": "No"
+    },
+    {
+      "Sentiment": "Pos",
+      "Entity": {"Words":  ["Avinash"], "Type": ["Participant Name"]},
+      "Deadline": "No",
+      "Escalation": "Yes",
+      "Help": "No",
+      "Question": "No"
+    },
+    {
+      "Sentiment": "Pos",
+      "Entity": {"Words":  ["Dhanuj", "Divesh"], "Type": ["Participant Name", "Participant Name"]},
+      "Deadline": "No",
+      "Escalation": "Yes",
+      "Help": "No",
+      "Question": "No"
+    },
+    {
+      "Sentiment": "Pos",
+      "Entity": {"Words":  ["dhanuj"], "Type": ["Participant Name"]},
+      "Deadline": "No",
+      "Escalation": "Yes",
+      "Help": "No",
+      "Question": "No"
+    }
+  ]
+}

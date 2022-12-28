@@ -1,0 +1,24 @@
+*.pyc
+*.pyo
+*.mo
+*.db
+.cache
+.project
+.idea
+.DS_Store
+.git/
+dist
+docs
+env/
+logs
+src/{{ project_name }}/settings/local.py
+.vscode/
+.pytest_cache/
+.scannerwork/
+dock-env/
+/module/Summarizer/models/
+/module/Summarizer/results/
+module/Headliner/models/*
+module/Headliner/results/*
+module/Headliner/models/
+.scannerwork

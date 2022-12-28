@@ -1,0 +1,6 @@
+{
+  "pretrained_model": "bert-base-uncased",
+  "best_eval_accuracy": 0.65,
+  "model": "FineTunedClassifier_23-04-25-01-2022",
+  "train_accuracy": 0.7955696202531646
+}

@@ -1,0 +1,13 @@
+.pytest_cache
+*.pyc
+env/
+*.log
+*.sqlite3
+/module/Summarizer/models/
+/module/Summarizer/results/
+module/Headliner/models/*
+module/Headliner/results/*
+module/Headliner/models/
+.scannerwork
+.env
+dock-env/
