@@ -1,0 +1,6 @@
+<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="wsv6cennha" d="M1.409 20 0 18.591 8.591 10 0 1.409 1.409 0 10 8.591 18.591 0 20 1.409 11.409 10 20 18.591 18.591 20 10 11.409z"/>
+    </defs>
+    <use fill="#949494" xlink:href="#wsv6cennha" fill-rule="evenodd"/>
+</svg>

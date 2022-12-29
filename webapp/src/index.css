@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.MuiInputBase-root {
+  margin: 0px !important;
+}
+
+.MuiTextField-root {
+  padding: 0px !important;
+}
+
+@media (min-width: 600px) {
+  .MuiToolbar-gutters {
+    padding-left: 16px !important;
+  }
+}
+
+.css-1xjqi8o-control {
+  background-color: inherit !important;
+}
+
+.menu {
+  background-color: #fff;
+  border-radius: 2px;
+  padding-left: 0;
+  margin: 0;
+  position: absolute;
+  list-style: none;
+}
+
+.menu li {
+  padding: 0.2em 1em;
+  color: #000;
+  cursor: pointer;
+}
+
+.menu li:hover {
+  background-color: #f2f2f2;
+}
+
+.MuiCheckbox-colorSecondary.Mui-checked {
+  color: #1665df !important;
+}
+
+input::placeholder {
+  font-size: 14px;
+  font-family: Lato;
+}
+
+/* input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0px 1000px white inset !important;
+} */

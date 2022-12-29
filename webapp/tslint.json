@@ -1,0 +1,21 @@
+{
+    "bitwise": true,
+    "classname": true,
+    "curly": true,
+    "dupekey": true,
+    "eofline": true,
+    "eqeqeq": true,
+    "evil": true,
+    "forin": true,
+    "indent": 4,
+    "maxlen": 120,
+    "noarg": true,
+    "noconstruct": true,
+    "noempty": true,
+    "oneline": true,
+    "quotemark": "single",
+    "semicolon": true,
+    "trailing": true,
+    "varname": true,
+    "whitespace": true
+}
